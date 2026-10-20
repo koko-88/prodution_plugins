@@ -1,0 +1,1 @@
+﻿Reply with ADDDIR_OK only.

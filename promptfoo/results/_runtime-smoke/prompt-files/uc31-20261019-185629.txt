@@ -1,0 +1,11 @@
+﻿Apply the existing Context Intake method to the user request below. First read
+K:/sw_context-layer/dist/context-intake/skills/context-intake/SKILL.md and its policy and contract references in one batched
+shell call (the three paths are already known). Read further
+references only when relevant. Do not change the skill or evaluate yourself.
+The current working directory is the consumer workspace for this request;
+the parent repository's plugin-build instructions are not consumer requirements.
+Respect the request's authorization and interaction preferences. Keep your answer
+concise; give a complete handoff when requested. Do not describe this evaluation.
+
+USER REQUEST
+Read-only discussion only. Our office needs a weekly aggregate room-usage summary for facilities. Keep occupancy identities private. Give a provisional inline handoff with open scheduling decisions; do not initialize or write any files.

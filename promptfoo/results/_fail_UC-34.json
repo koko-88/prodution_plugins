@@ -1,0 +1,18 @@
+{
+  "case_id": "UC-34",
+  "success": false,
+  "score": 0,
+  "error": "Evaluation timed out after 180000ms: Error: Evaluation timed out after 180000ms",
+  "gradingResult": null,
+  "response_preview": "",
+  "namedScores": {},
+  "latencyMs": 180000,
+  "vars": {
+    "eval_root": "K:/sw_context-layer/promptfoo",
+    "skill_root": "K:/sw_context-layer/skills/context-intake",
+    "python": "C:\\Python314\\python.exe",
+    "case_id": "UC-32",
+    "request": "I am the operations owner. Write the canonical HANDOFF now in this consumer workspace, using original request ID OPS-32 and original goal \"Weekly aggregate room usage\". Facilities needs an aggregate weekly room-usage report each Monday at 09:00 UTC. Never retain personal identifiers. Email to the facilities mailbox is accepted; actual data/integration capability is a nonblocking research gap for the automation factory. Use the existing template/schema/helper, validate the completed file and report its exact path. Do not create other output artifacts, implement automation or initialize planning.",
+    "rubric": "Actually publish one canonical validated HANDOFF for OPS-32 in this consumer, preserve actor, schedule, email decision and privacy prohibition with owner provenance, keep integration evidence a nonblocking acquisition gap, and name automation as next receiver. A promise, scaffold, inline draft, claimed validation without execution or plugin-cache output fails."
+  }
+}

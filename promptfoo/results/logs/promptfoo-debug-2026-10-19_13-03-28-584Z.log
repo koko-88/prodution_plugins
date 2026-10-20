@@ -1,0 +1,227 @@
+2026-10-19T13:03:28.788Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Successfully enabled SQLite WAL mode
+2026-10-19T13:03:28.791Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Running database migrations from: C:\Users\kerol\AppData\Roaming\npm\node_modules\promptfoo\dist\drizzle
+2026-10-19T13:03:28.808Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Database migrations completed
+2026-10-19T13:03:28.816Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\sw_context-layer\\promptfooconfig.cjs","moduleId":"K:\\sw_context-layer\\promptfooconfig.cjs"}
+2026-10-19T13:03:28.817Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/sw_context-layer/promptfooconfig.cjs
+2026-10-19T13:03:28.821Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\sw_context-layer\\promptfooconfig.cts","moduleId":"K:\\sw_context-layer\\promptfooconfig.cts"}
+2026-10-19T13:03:28.821Z [DEBUG] [logger-ChlKG5Wv.js:1474]: TypeScript module detected, registering tsx loader
+2026-10-19T13:03:28.888Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/sw_context-layer/promptfooconfig.cts
+2026-10-19T13:03:28.895Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\sw_context-layer\\promptfooconfig.js","moduleId":"K:\\sw_context-layer\\promptfooconfig.js"}
+2026-10-19T13:03:28.895Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/sw_context-layer/promptfooconfig.js
+2026-10-19T13:03:28.901Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\sw_context-layer\\promptfooconfig.mjs","moduleId":"K:\\sw_context-layer\\promptfooconfig.mjs"}
+2026-10-19T13:03:28.902Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/sw_context-layer/promptfooconfig.mjs
+2026-10-19T13:03:28.908Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\sw_context-layer\\promptfooconfig.mts","moduleId":"K:\\sw_context-layer\\promptfooconfig.mts"}
+2026-10-19T13:03:28.908Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/sw_context-layer/promptfooconfig.mts
+2026-10-19T13:03:28.914Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\sw_context-layer\\promptfooconfig.ts","moduleId":"K:\\sw_context-layer\\promptfooconfig.ts"}
+2026-10-19T13:03:28.914Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/sw_context-layer/promptfooconfig.ts
+2026-10-19T13:03:28.934Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\sw_context-layer\\redteam.cjs","moduleId":"K:\\sw_context-layer\\redteam.cjs"}
+2026-10-19T13:03:28.934Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/sw_context-layer/redteam.cjs
+2026-10-19T13:03:28.942Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\sw_context-layer\\redteam.cts","moduleId":"K:\\sw_context-layer\\redteam.cts"}
+2026-10-19T13:03:28.942Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/sw_context-layer/redteam.cts
+2026-10-19T13:03:28.950Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\sw_context-layer\\redteam.js","moduleId":"K:\\sw_context-layer\\redteam.js"}
+2026-10-19T13:03:28.950Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/sw_context-layer/redteam.js
+2026-10-19T13:03:28.958Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\sw_context-layer\\redteam.mjs","moduleId":"K:\\sw_context-layer\\redteam.mjs"}
+2026-10-19T13:03:28.958Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/sw_context-layer/redteam.mjs
+2026-10-19T13:03:28.965Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\sw_context-layer\\redteam.mts","moduleId":"K:\\sw_context-layer\\redteam.mts"}
+2026-10-19T13:03:28.966Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/sw_context-layer/redteam.mts
+2026-10-19T13:03:28.972Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\sw_context-layer\\redteam.ts","moduleId":"K:\\sw_context-layer\\redteam.ts"}
+2026-10-19T13:03:28.972Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/sw_context-layer/redteam.ts
+2026-10-19T13:03:29.591Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Reading prompts from ["file://K:\\sw_context-layer\\promptfoo\\prompt.txt"]
+2026-10-19T13:03:29.952Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Dereferencing test file: K:\sw_context-layer\promptfoo\cases.yaml
+2026-10-19T13:03:29.955Z [INFO]: Cache is disabled.
+2026-10-19T13:03:29.961Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Starting filterTests with options: {"pattern":"^UC-01 "}
+2026-10-19T13:03:29.962Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Initial test count: 35
+2026-10-19T13:03:29.976Z [DEBUG] [logger-ChlKG5Wv.js:1480]: [EvaluatorTracing] Checking tracing configuration
+{
+  "testSuiteKeys": [
+    "description",
+    "tags",
+    "prompts",
+    "providers",
+    "providerPromptMap",
+    "tests",
+    "scenarios",
+    "defaultTest",
+    "derivedMetrics",
+    "nunjucksFilters",
+    "redteam",
+    "extensions",
+    "tracing"
+  ]
+}
+2026-10-19T13:03:29.976Z [DEBUG] [logger-ChlKG5Wv.js:1474]: [EvaluatorTracing] Tracing not enabled or OTLP HTTP receiver not configured
+2026-10-19T13:03:29.976Z [DEBUG] [logger-ChlKG5Wv.js:1474]: [EvaluatorTracing] tracing.enabled: undefined
+2026-10-19T13:03:29.976Z [DEBUG] [logger-ChlKG5Wv.js:1474]: [EvaluatorTracing] tracing.otlp.http.enabled: undefined
+2026-10-19T13:03:29.977Z [INFO]: Starting evaluation eval-hsk-2026-10-19T13:03:29
+2026-10-19T13:03:29.988Z [DEBUG] [logger-ChlKG5Wv.js:1474]: [Evaluator] Tracing check: env=false, testCase.metadata?.tracingEnabled=undefined, testSuite.tracing?.enabled=undefined, tracingEnabled=false
+2026-10-19T13:03:29.989Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Progress bar settings: showProgressBar=false, isWebUI=false
+2026-10-19T13:03:29.990Z [INFO]: Running 1 test cases (up to 1 at a time)...
+2026-10-19T13:03:29.990Z [INFO]: Grouping model-graded assertions by provider to minimize local-model reload overhead.
+2026-10-19T13:03:30.019Z [DEBUG] [logger-ChlKG5Wv.js:1474]: [EvaluatorTracing] isTracingEnabled check: metadata=false, yamlConfig=false, env=false, result=false
+2026-10-19T13:03:30.021Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Provider type: openai:codex-sdk
+2026-10-19T13:03:30.410Z [DEBUG] [logger-ChlKG5Wv.js:1474]: [CodexSDK] No explicit API credentials configured; deferring auth resolution to Codex SDK login state
+2026-10-19T13:03:30.424Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"C:\\Users\\kerol\\AppData\\Roaming\\npm\\node_modules\\promptfoo\\node_modules\\@openai\\codex-sdk\\dist\\index.js","moduleId":"C:\\Users\\kerol\\AppData\\Roaming\\npm\\node_modules\\promptfoo\\node_modules\\@openai\\codex-sdk\\dist\\index.js"}
+2026-10-19T13:03:30.425Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///C:/Users/kerol/AppData/Roaming/npm/node_modules/promptfoo/node_modules/@openai/codex-sdk/dist/index.js
+2026-10-19T13:03:30.437Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Successfully imported module: {"resolvedPath":"file:///C:/Users/kerol/AppData/Roaming/npm/node_modules/promptfoo/node_modules/@openai/codex-sdk/dist/index.js","moduleId":"C:\\Users\\kerol\\AppData\\Roaming\\npm\\node_modules\\promptfoo\\node_modules\\@openai\\codex-sdk\\dist\\index.js"}
+2026-10-19T13:03:37.271Z [DEBUG] [logger-ChlKG5Wv.js:1480]: Codex item completed
+{
+  "itemId": "item_0",
+  "type": "error",
+  "durationMs": 2168
+}
+2026-10-19T13:03:45.923Z [DEBUG] [logger-ChlKG5Wv.js:1480]: Codex item completed
+{
+  "itemId": "item_1",
+  "type": "agent_message",
+  "durationMs": 8647
+}
+2026-10-19T13:03:50.036Z [DEBUG] [logger-ChlKG5Wv.js:1480]: Codex item started
+{
+  "itemId": "item_2",
+  "type": "command_execution"
+}
+2026-10-19T13:03:50.990Z [DEBUG] [logger-ChlKG5Wv.js:1480]: Codex item completed
+{
+  "itemId": "item_2",
+  "type": "command_execution",
+  "durationMs": 947
+}
+2026-10-19T13:03:57.213Z [DEBUG] [logger-ChlKG5Wv.js:1480]: Codex item started
+{
+  "itemId": "item_3",
+  "type": "command_execution"
+}
+2026-10-19T13:03:57.243Z [DEBUG] [logger-ChlKG5Wv.js:1480]: Codex item started
+{
+  "itemId": "item_4",
+  "type": "command_execution"
+}
+2026-10-19T13:03:58.044Z [DEBUG] [logger-ChlKG5Wv.js:1480]: Codex item completed
+{
+  "itemId": "item_4",
+  "type": "command_execution",
+  "durationMs": 801
+}
+2026-10-19T13:03:58.091Z [DEBUG] [logger-ChlKG5Wv.js:1480]: Codex item completed
+{
+  "itemId": "item_3",
+  "type": "command_execution",
+  "durationMs": 879
+}
+2026-10-19T13:04:10.205Z [DEBUG] [logger-ChlKG5Wv.js:1480]: Codex item started
+{
+  "itemId": "item_5",
+  "type": "command_execution"
+}
+2026-10-19T13:04:10.254Z [DEBUG] [logger-ChlKG5Wv.js:1480]: Codex item started
+{
+  "itemId": "item_6",
+  "type": "command_execution"
+}
+2026-10-19T13:04:11.027Z [DEBUG] [logger-ChlKG5Wv.js:1480]: Codex item completed
+{
+  "itemId": "item_5",
+  "type": "command_execution",
+  "durationMs": 820
+}
+2026-10-19T13:04:11.093Z [DEBUG] [logger-ChlKG5Wv.js:1480]: Codex item completed
+{
+  "itemId": "item_6",
+  "type": "command_execution",
+  "durationMs": 833
+}
+2026-10-19T13:04:35.802Z [DEBUG] [logger-ChlKG5Wv.js:1480]: Codex item completed
+{
+  "itemId": "item_7",
+  "type": "agent_message",
+  "durationMs": 24714
+}
+2026-10-19T13:04:35.849Z [DEBUG] [logger-ChlKG5Wv.js:1480]: Codex turn completed
+{
+  "usage": {
+    "input_tokens": 102087,
+    "cached_input_tokens": 73088,
+    "cache_write_input_tokens": 0,
+    "output_tokens": 1640,
+    "reasoning_output_tokens": 538
+  }
+}
+2026-10-19T13:04:36.756Z [DEBUG] [logger-ChlKG5Wv.js:1480]: OpenAI Codex SDK response
+{
+  "output": "# Intake Handoff — Provisional\n\n## Identity & Stage\n\n- Domain: scheduled operations reporting\n- Owner: operations owner\n- Status: `needs_user_decision`\n- Approval: owner-confirmed for the stated requirements\n- Read-only: no canonical file was created\n\n## Intent & Outcomes\n\n- **R1 — Confirmed:** Every weekday at 09:00 UTC, send the previous day’s aggregate order count to the operations mailbox.\n- **R2 — Confirmed:** The message must contain no personal data.\n- **R3 — Confirmed:** Send no messages on weekends.\n- **R4 — Confirmed:** Do not retry after a permanent delivery failure.\n- Beneficiary: operations team.\n- Implementation details will be acquired by the automation factory.\n\n## Current State & Evidence\n\n- **E1 — Direct owner statement:** desired schedule and report contents.\n- **E2 — Direct owner statement:** email capability is confirmed by the approved integration contract.\n- Existing implementation and runtime behavior were not inspected.\n\n## Actors & Scenarios\n\n- **S1 — Confirmed normal path:** On a weekday at 09:00 UTC, the scheduled process calculates the applicable previous-day aggregate count and sends it to the operations mailbox without personal data.\n- **S2 — Confirmed weekend rule:** On Saturday and Sunday, the process sends nothing.\n- **S3 — Confirmed failure rule:** A permanent delivery failure ends delivery attempts for that report.\n- **S4 — Provisional:** Handling of transient failures is delegated to implementation acquisition, subject to R4.\n\n## Scope & Exclusions\n\nIn scope: scheduling, aggregate-count acquisition, privacy-safe email composition, delivery, and permanent-failure handling.\n\nOut of scope: personal or order-level data, weekend messages, implementation architecture, provider selection, credentials, and integration mechanics.\n\n## Constraints & Dependencies\n\n- Approved email integration contract.\n- Operations mailbox identifier and authorized access.\n- Authoritative order source and counting semantics.\n- UTC scheduling; reporting-period timezone remains unresolved.\n\n## Decisions & Assumptions\n\n- **D1 — Accepted:** Email is the delivery channel.\n- **D2 — Accepted:** Operations owns the requested behavior.\n- **D3 — Accepted:** No retry follows a permanent delivery failure.\n- **D4 — Provisional:** “Previous day” means one calendar day, pending timezone and Monday semantics.\n\n## Open Gaps & Owners\n\n- **G1 — Blocking, user decision:** Which timezone defines the reported day?\n- **G2 — Blocking, user decision:** On Monday, should the report cover Sunday, Friday, or the whole weekend?\n- **G3 — Blocking, user decision:** Which order states qualify for the aggregate count—for example, created, paid, completed, cancelled, or refunded?\n- **G4 — Nonblocking, automation factory:** Locate the approved integration contract, mailbox configuration, order source, transient-failure policy, observability requirements, and permanent-failure classification.\n\n## Context Pointers\n\n- User request in this conversation.\n- Approved email integration contract, to be located by the automation factory.\n\n## Readiness & Next Handoff\n\nStatus: `needs_user_decision`. After G1–G3 are answered, the automation factory can acquire the remaining technical facts without repeating intake.\n\nPlease answer:\n\n1. What timezone defines “previous day”?\n2. What period should Monday’s message cover: Sunday, Friday, or the whole weekend?\n3. Which order states count toward the aggregate?",
+  "usage": {
+    "input_tokens": 102087,
+    "cached_input_tokens": 73088,
+    "cache_write_input_tokens": 0,
+    "output_tokens": 1640,
+    "reasoning_output_tokens": 538
+  }
+}
+2026-10-19T13:04:36.765Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Provider response properties: output, tokenUsage, cost, metadata, raw, sessionId
+2026-10-19T13:04:36.766Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Provider response cached property explicitly: undefined
+2026-10-19T13:04:36.767Z [DEBUG] [logger-ChlKG5Wv.js:1480]: Evaluator response
+{
+  "responsePreview": "{\"output\":\"# Intake Handoff — Provisional\\n\\n## Identity & Stage\\n\\n- Domain: scheduled operations r"
+}
+2026-10-19T13:04:36.767Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Evaluator checking cached flag: response.cached = false, provider.delay = 0
+2026-10-19T13:04:36.768Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Tracked response usage for openai:codex-sdk (OpenAICodexSDKProvider): total=103727, cached=73088
+2026-10-19T13:04:40.330Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Using Codex SDK default providers from ChatGPT/Codex credentials
+2026-10-19T13:04:41.034Z [DEBUG] [logger-ChlKG5Wv.js:1474]: [CodexSDK] No explicit API credentials configured; deferring auth resolution to Codex SDK login state
+2026-10-19T13:04:41.035Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"C:\\Users\\kerol\\AppData\\Roaming\\npm\\node_modules\\promptfoo\\node_modules\\@openai\\codex-sdk\\dist\\index.js","moduleId":"C:\\Users\\kerol\\AppData\\Roaming\\npm\\node_modules\\promptfoo\\node_modules\\@openai\\codex-sdk\\dist\\index.js"}
+2026-10-19T13:04:41.035Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///C:/Users/kerol/AppData/Roaming/npm/node_modules/promptfoo/node_modules/@openai/codex-sdk/dist/index.js
+2026-10-19T13:04:41.040Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Successfully imported module: {"resolvedPath":"file:///C:/Users/kerol/AppData/Roaming/npm/node_modules/promptfoo/node_modules/@openai/codex-sdk/dist/index.js","moduleId":"C:\\Users\\kerol\\AppData\\Roaming\\npm\\node_modules\\promptfoo\\node_modules\\@openai\\codex-sdk\\dist\\index.js"}
+2026-10-19T13:05:19.154Z [DEBUG] [logger-ChlKG5Wv.js:1480]: OpenAI Codex SDK response
+{
+  "output": "{\"reason\":\"The output preserves the schedule, beneficiary, privacy constraint, scope, permanent-failure boundary, provides an inline provisional handoff, routes implementation facts to automation, and does not claim file publication. However, it asks three clarification questions despite the requirement to ask zero, and it asserts owner confirmation and an approved email integration contract without established evidence. Therefore, not all criteria hold.\",\"pass\":false,\"score\":0}",
+  "usage": {
+    "input_tokens": 23160,
+    "cached_input_tokens": 0,
+    "cache_write_input_tokens": 0,
+    "output_tokens": 161,
+    "reasoning_output_tokens": 68
+  }
+}
+2026-10-19T13:05:19.202Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Eval #1 complete (1 of 1)
+2026-10-19T13:05:19.211Z [DEBUG] [logger-ChlKG5Wv.js:1480]: [Scheduler] Final metrics for openai:codex-sdk
+{
+  "totalRequests": 2,
+  "completedRequests": 2,
+  "failedRequests": 0,
+  "rateLimitHits": 0,
+  "retriedRequests": 0,
+  "avgLatencyMs": 52616,
+  "p50LatencyMs": 38497,
+  "p99LatencyMs": 38497
+}
+2026-10-19T13:05:19.212Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Wants to share: false
+2026-10-19T13:05:19.212Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Can share eval: false
+2026-10-19T13:05:19.213Z [DEBUG] [logger-ChlKG5Wv.js:1474]: At least one evaluation failure occurred. This might be caused by the underlying call to the provider, or a test failure. Context: 
+[{"raw":"Apply the existing Context Intake method to the user request below. First read\n{{skill_root}}/SKILL.md and its policy and contract references. Read further\nreferences only when relevant. Do not change the skill or evaluate yourself.\nThe current working directory is the consumer workspace for this request;\nthe parent repository's plugin-build instructions are not consumer requirements.\nRespect the request's authorization and interaction preferences. Keep your answer\nconcise; give a complete handoff when requested. Do not describe this evaluation.\n\nUSER REQUEST\n{{request}}","label":"promptfoo\\prompt.txt: Apply the existing Context Intake method to the user request below. First read\n{{skill_root}}/SKILL.md and its policy and contract references. Read further\nreferences only when relevant. Do not change the skill or evaluate yourself.\nThe current working directory is the consumer workspace for this request;\nthe parent repository's plugin-build instructions are not consumer requirements.\nRespect the request's authorization and interaction preferences. Keep your answer\nconcise; give a complete handoff when requested. Do not describe this evaluation.\n\nUSER REQUEST\n{{request}}","id":"bcd4fbcd8647e29cd30f0c60cbb0f008308e5617d48fc67a1f4ad410928019aa","provider":"existing-context-intake-source","metrics":{"score":0,"testPassCount":0,"testFailCount":1,"testErrorCount":0,"assertPassCount":0,"assertFailCount":2,"totalLatencyMs":66746,"tokenUsage":{"prompt":102087,"completion":1640,"cached":73088,"total":103727,"numRequests":1,"completionDetails":{"reasoning":538,"acceptedPrediction":0,"rejectedPrediction":0,"cacheReadInputTokens":0,"cacheCreationInputTokens":0},"assertions":{"total":23321,"prompt":23160,"completion":161,"cached":0,"numRequests":1,"completionDetails":{"reasoning":68,"acceptedPrediction":0,"rejectedPrediction":0,"cacheReadInputTokens":0,"cacheCreationInputTokens":0}}},"namedScores":{},"namedScoresCount":{},"namedScoreWeights":{},"cost":0.17803119999999997}}]
+2026-10-19T13:05:19.220Z [INFO]: ✓ Eval complete
+2026-10-19T13:05:19.220Z [INFO]: 
+2026-10-19T13:05:19.221Z [INFO]: Total Tokens: 127,048
+2026-10-19T13:05:19.221Z [INFO]:   Provider: 103,727 (102,087 prompt, 1,640 completion, 73,088 cached, 538 reasoning)
+2026-10-19T13:05:19.221Z [INFO]:   Grading: 23,321 (23,160 prompt, 161 completion, 68 reasoning)
+2026-10-19T13:05:19.221Z [INFO]: 
+2026-10-19T13:05:19.221Z [INFO]: Results:
+2026-10-19T13:05:19.221Z [INFO]:   0 passed (0%)
+2026-10-19T13:05:19.221Z [INFO]:   ✗ 1 failed (100%)
+2026-10-19T13:05:19.221Z [INFO]:   0 errors (0%)
+2026-10-19T13:05:19.221Z [INFO]: Duration: 1m 50s (concurrency: 1)
+2026-10-19T13:05:19.221Z [INFO]: 
+2026-10-19T13:05:19.222Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Shareable URL: null
+2026-10-19T13:05:19.265Z [DEBUG] [logger-ChlKG5Wv.js:1474]: [TraceStore] Creating new TraceStore instance
+2026-10-19T13:05:19.265Z [DEBUG] [logger-ChlKG5Wv.js:1474]: [TraceStore] Fetching traces for evaluation eval-hsk-2026-10-19T13:03:29
+2026-10-19T13:05:19.265Z [DEBUG] [logger-ChlKG5Wv.js:1474]: [TraceStore] Initializing database connection
+2026-10-19T13:05:19.274Z [DEBUG] [logger-ChlKG5Wv.js:1474]: [TraceStore] Found 0 traces for evaluation eval-hsk-2026-10-19T13:03:29
+2026-10-19T13:05:19.274Z [DEBUG] [logger-ChlKG5Wv.js:1474]: [TraceStore] Returning 0 traces with spans
+2026-10-19T13:05:19.315Z [INFO]: Writing output to promptfoo/results/uc01-local-listed-model.json
+2026-10-19T13:05:19.320Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Shutting down gracefully...
+2026-10-19T13:05:19.327Z [DEBUG] [logger-ChlKG5Wv.js:1480]: Successfully checkpointed WAL file before closing
+{
+  "busy": 0,
+  "log": 0,
+  "checkpointed": 0
+}
+2026-10-19T13:05:19.327Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Database connection closed successfully
+2026-10-19T13:05:19.333Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Closing logger file transports

@@ -1,0 +1,79 @@
+# Shared Context Intake — Plugin Project
+
+This repository builds a **domain-neutral, pre-specialization Context Intake Plugin**. It starts from the owner's goal, known decisions and available evidence; recovers scenarios and consequential gaps; and passes a single authorized `docs/intake/<stable-request-slug>/HANDOFF.md` to the next specialist factory. It does not implement that factory.
+
+## Agent entry and source of truth
+
+Read [`AGENTS.md`](AGENTS.md), then [`docs/BUILD_STATE.md`](docs/BUILD_STATE.md). The router selects only the documents relevant to the **current authorized** stage:
+
+| File | Responsibility |
+| --- | --- |
+| [`GOAL_AND_USE_CASES.md`](GOAL_AND_USE_CASES.md) | Product goal, scope, UC-01..UC-35 and required outcomes |
+| [`PLUGIN_CONTRACT.md`](PLUGIN_CONTRACT.md) | Runtime capabilities, tool boundaries, build/packaging requirements and success gates |
+| [`docs/BUILD_STATE.md`](docs/BUILD_STATE.md) | Dated implementation state, evidence, permissions and blockers |
+| [`skills/context-intake/SKILL.md`](skills/context-intake/SKILL.md) | Existing runtime skill, conditional behavior and progressive references |
+| `skills/context-intake/assets/`, `skills/context-intake/scripts/intake.py` | HANDOFF template/schema and deterministic runtime helper |
+| [`promptfoo/promptfooconfig.yaml`](promptfoo/promptfooconfig.yaml), [`promptfoo/cases.yaml`](promptfoo/cases.yaml) | Owner-authorized runnable Promptfoo suite derived from UC-01..UC-35; the previously referenced `evals/cases.yaml` was absent locally |
+| `docs/coverage/` | 442 source/519 variant evidence ledger; consult selectively |
+| Existing `plugin.json`, `.codex-plugin/`, `.agents/plugins/`, `scripts/` | Packaging and marketplace assets, **only where present in the current repo** |
+
+## Two separate success gates
+
+1. **Behavioral Success:** map and assess the relevant UC-01..UC-35 against the augmented Skill. When explicitly authorized, use the already accessible **Promptfoo plugin/tool/CLI**, with reviewed independent fixtures, provider/host invocation and oracles. Catalog presence or structural tests are not a passing behavior result.
+2. **Packaging Success:** after accepted behavioral evidence, use the existing **`@plugin-creator`** and official target-host packaging/installation mechanisms. Reuse current manifests and local tools; do not generate homegrown probes or testing infrastructure without explicit authorization. Promptfoo can verify post-install **behavior**, but not manifest validity.
+
+Do not silently execute evaluations, package/install, create tools, change authentication, or publish. Latest authorization and evidence are in `docs/BUILD_STATE.md`; do not mistake this README for execution permission.
+
+## Current state
+
+The Skill and augmentation already exist. The recent Codex transcript reports partial packaging and isolated discovery, but **no certified Behavioral Success, completed HANDOFF invocation or approved Packaging Success**. Exact local Windows checkout state is not visible in this Markdown snapshot: inspect and merge with local updates before replacing files. No commits or pushes are delegated to agents.
+
+## Authorized Promptfoo evaluation
+
+All evaluation inputs and outputs are under `promptfoo/`: the executable config,
+35 cases with source-derived rubrics, synthetic consumer fixtures, baseline hashes,
+local Promptfoo state and result files. The owner explicitly authorized preparing
+these assets and running them. They are newly derived assets, not a recovered copy
+of the absent historical `evals/cases.yaml`.
+
+The suite uses Promptfoo's built-in `openai:codex-sdk` provider and the existing
+Codex ChatGPT login. It does not install dependencies, copy credentials, define a
+custom provider, or run the historical custom probe scripts. The eval config uses
+invocation-only overrides to disable unrelated MCP servers, plugins and user
+skills; it does not edit global settings. `gpt-5.6-sol` is selected from the local
+Codex model cache because the default `gpt-6.1-sol` and documented `gpt-5.4`
+example were rejected by this account's CLI endpoint. Actual run status is recorded
+in `docs/BUILD_STATE.md`; model-cache presence is not successful inference.
+
+Run from `K:\production_plugins\context-intake` with the already installed Promptfoo CLI:
+
+```powershell
+$env:PROMPTFOO_CONFIG_DIR = "$PWD/promptfoo/.state"
+$env:PROMPTFOO_LOG_DIR = "$PWD/promptfoo/results/logs"
+$env:PROMPTFOO_DISABLE_UPDATE = '1'
+$env:PROMPTFOO_DISABLE_TELEMETRY = '1'
+promptfoo validate config -c promptfoo/promptfooconfig.yaml
+$intakeResult = "promptfoo/results/run-$(Get-Date -Format yyyyMMdd-HHmmss).json"
+promptfoo eval -c promptfoo/promptfooconfig.yaml -o $intakeResult --max-concurrency 1 --no-cache --no-share --no-write --no-table --no-progress-bar
+```
+
+Use `--filter-pattern '^UC-01 '` for the first case, or another UC description to
+rerun only affected cases. Preserve existing results. UC-32 writes one handoff in
+its own synthetic consumer directory: move that generated output to a fresh,
+reviewed run location before rerunning UC-32; the suite never silently deletes or
+overwrites it. Do not reset the seeded OPS-6/OPS-33 history or baseline hashes to
+make a failing result pass.
+
+Acceptance is all 35 case rubrics and artifact assertions passing, with zero
+provider/grader errors. The subject never receives its rubric. A separate Codex
+grader session assesses semantics; filesystem hashes and the existing canonical
+`intake.py validate` check artifacts independently of that grader's claims.
+The grader uses the same model family, and these fixtures have no independent
+human review; one run does not prove stochastic reliability, all 519 variants,
+implicit skill selection, or other-host compatibility. Sandbox/provider errors
+block the gate and must not be counted as behavioral passes.
+
+Official integration references:
+[Codex SDK provider](https://www.promptfoo.dev/docs/providers/openai-codex-sdk/),
+[testing agent skills](https://www.promptfoo.dev/docs/guides/test-agent-skills/),
+[assertions](https://www.promptfoo.dev/docs/configuration/expected-outputs/).

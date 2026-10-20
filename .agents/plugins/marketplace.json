@@ -1,0 +1,12 @@
+{
+  "name": "shared-context-local",
+  "interface": {"displayName": "Shared Context Intake (Local)"},
+  "plugins": [
+    {
+      "name": "context-intake",
+      "source": {"source": "local", "path": "./dist/context-intake"},
+      "policy": {"installation": "AVAILABLE", "authentication": "ON_USE"},
+      "category": "Productivity"
+    }
+  ]
+}

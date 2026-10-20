@@ -1,0 +1,16 @@
+2026-10-19T15:11:02.350Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Successfully enabled SQLite WAL mode
+2026-10-19T15:11:02.352Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Running database migrations from: C:\Users\kerol\AppData\Roaming\npm\node_modules\promptfoo\dist\drizzle
+2026-10-19T15:11:02.363Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Database migrations completed
+2026-10-19T15:11:02.370Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\sw_context-layer\\promptfooconfig.cjs","moduleId":"K:\\sw_context-layer\\promptfooconfig.cjs"}
+2026-10-19T15:11:02.370Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/sw_context-layer/promptfooconfig.cjs
+2026-10-19T15:11:02.374Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\sw_context-layer\\promptfooconfig.cts","moduleId":"K:\\sw_context-layer\\promptfooconfig.cts"}
+2026-10-19T15:11:02.374Z [DEBUG] [logger-ChlKG5Wv.js:1474]: TypeScript module detected, registering tsx loader
+2026-10-19T15:11:02.426Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/sw_context-layer/promptfooconfig.cts
+2026-10-19T15:11:02.432Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\sw_context-layer\\promptfooconfig.js","moduleId":"K:\\sw_context-layer\\promptfooconfig.js"}
+2026-10-19T15:11:02.433Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/sw_context-layer/promptfooconfig.js
+2026-10-19T15:11:02.439Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\sw_context-layer\\promptfooconfig.mjs","moduleId":"K:\\sw_context-layer\\promptfooconfig.mjs"}
+2026-10-19T15:11:02.440Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/sw_context-layer/promptfooconfig.mjs
+2026-10-19T15:11:02.446Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\sw_context-layer\\promptfooconfig.mts","moduleId":"K:\\sw_context-layer\\promptfooconfig.mts"}
+2026-10-19T15:11:02.446Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/sw_context-layer/promptfooconfig.mts
+2026-10-19T15:11:02.451Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\sw_context-layer\\promptfooconfig.ts","moduleId":"K:\\sw_context-layer\\promptfooconfig.ts"}
+2026-10-19T15:11:02.451Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/sw_context-layer/promptfooconfig.ts

@@ -1,0 +1,8 @@
+2026-10-19T13:14:44.126Z [ERROR]: Codex turn failed
+{
+  "error": "Selected model is at capacity. Please try a different model."
+}
+2026-10-19T13:14:44.127Z [ERROR]: Error calling OpenAI Codex SDK
+{
+  "error": "Codex turn failed: Selected model is at capacity. Please try a different model."
+}

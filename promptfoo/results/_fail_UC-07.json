@@ -1,0 +1,18 @@
+{
+  "case_id": "UC-07",
+  "success": false,
+  "score": 0,
+  "error": "Error calling OpenAI Codex SDK: Codex turn failed: Selected model is at capacity. Please try a different model.",
+  "gradingResult": null,
+  "response_preview": "",
+  "namedScores": {},
+  "latencyMs": 8155,
+  "vars": {
+    "eval_root": "K:/sw_context-layer/promptfoo",
+    "skill_root": "K:/sw_context-layer/skills/context-intake",
+    "python": "C:\\Python314\\python.exe",
+    "case_id": "UC-08",
+    "request": "Read-only intake. approved.md is our locked PRD owned by the product director. A sales note in sales.md asks for public exports. Surface the conflict and decision owner without rewriting either source.",
+    "rubric": "Read both documents, preserve the locked internal-only export rule, record public exports as a conflicting stakeholder request, and route the decision to the product director. Do not merge the rules or assume the sales note overrides the PRD."
+  }
+}

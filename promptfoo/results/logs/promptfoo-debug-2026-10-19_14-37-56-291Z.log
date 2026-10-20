@@ -1,0 +1,265 @@
+2026-10-19T14:37:56.685Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Successfully enabled SQLite WAL mode
+2026-10-19T14:37:56.687Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Running database migrations from: C:\Users\kerol\AppData\Roaming\npm\node_modules\promptfoo\dist\drizzle
+2026-10-19T14:37:56.709Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Database migrations completed
+2026-10-19T14:37:56.716Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\sw_context-layer\\promptfooconfig.cjs","moduleId":"K:\\sw_context-layer\\promptfooconfig.cjs"}
+2026-10-19T14:37:56.716Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/sw_context-layer/promptfooconfig.cjs
+2026-10-19T14:37:56.719Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\sw_context-layer\\promptfooconfig.cts","moduleId":"K:\\sw_context-layer\\promptfooconfig.cts"}
+2026-10-19T14:37:56.720Z [DEBUG] [logger-ChlKG5Wv.js:1474]: TypeScript module detected, registering tsx loader
+2026-10-19T14:37:56.813Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/sw_context-layer/promptfooconfig.cts
+2026-10-19T14:37:56.820Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\sw_context-layer\\promptfooconfig.js","moduleId":"K:\\sw_context-layer\\promptfooconfig.js"}
+2026-10-19T14:37:56.820Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/sw_context-layer/promptfooconfig.js
+2026-10-19T14:37:56.826Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\sw_context-layer\\promptfooconfig.mjs","moduleId":"K:\\sw_context-layer\\promptfooconfig.mjs"}
+2026-10-19T14:37:56.827Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/sw_context-layer/promptfooconfig.mjs
+2026-10-19T14:37:56.833Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\sw_context-layer\\promptfooconfig.mts","moduleId":"K:\\sw_context-layer\\promptfooconfig.mts"}
+2026-10-19T14:37:56.833Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/sw_context-layer/promptfooconfig.mts
+2026-10-19T14:37:56.839Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\sw_context-layer\\promptfooconfig.ts","moduleId":"K:\\sw_context-layer\\promptfooconfig.ts"}
+2026-10-19T14:37:56.839Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/sw_context-layer/promptfooconfig.ts
+2026-10-19T14:37:56.877Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\sw_context-layer\\redteam.cjs","moduleId":"K:\\sw_context-layer\\redteam.cjs"}
+2026-10-19T14:37:56.877Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/sw_context-layer/redteam.cjs
+2026-10-19T14:37:56.885Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\sw_context-layer\\redteam.cts","moduleId":"K:\\sw_context-layer\\redteam.cts"}
+2026-10-19T14:37:56.885Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/sw_context-layer/redteam.cts
+2026-10-19T14:37:56.893Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\sw_context-layer\\redteam.js","moduleId":"K:\\sw_context-layer\\redteam.js"}
+2026-10-19T14:37:56.893Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/sw_context-layer/redteam.js
+2026-10-19T14:37:56.910Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\sw_context-layer\\redteam.mjs","moduleId":"K:\\sw_context-layer\\redteam.mjs"}
+2026-10-19T14:37:56.911Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/sw_context-layer/redteam.mjs
+2026-10-19T14:37:56.918Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\sw_context-layer\\redteam.mts","moduleId":"K:\\sw_context-layer\\redteam.mts"}
+2026-10-19T14:37:56.919Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/sw_context-layer/redteam.mts
+2026-10-19T14:37:56.926Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\sw_context-layer\\redteam.ts","moduleId":"K:\\sw_context-layer\\redteam.ts"}
+2026-10-19T14:37:56.926Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/sw_context-layer/redteam.ts
+2026-10-19T14:37:57.949Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Reading prompts from ["file://K:\\sw_context-layer\\promptfoo\\prompt.txt"]
+2026-10-19T14:37:58.422Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Dereferencing test file: K:\sw_context-layer\promptfoo\cases.yaml
+2026-10-19T14:37:58.429Z [INFO]: Cache is disabled.
+2026-10-19T14:37:58.439Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Starting filterTests with options: {"pattern":"UC-(06|07|13|34|35) "}
+2026-10-19T14:37:58.439Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Initial test count: 35
+2026-10-19T14:37:58.453Z [DEBUG] [logger-ChlKG5Wv.js:1480]: [EvaluatorTracing] Checking tracing configuration
+{
+  "testSuiteKeys": [
+    "description",
+    "tags",
+    "prompts",
+    "providers",
+    "providerPromptMap",
+    "tests",
+    "scenarios",
+    "defaultTest",
+    "derivedMetrics",
+    "nunjucksFilters",
+    "redteam",
+    "extensions",
+    "tracing"
+  ]
+}
+2026-10-19T14:37:58.454Z [DEBUG] [logger-ChlKG5Wv.js:1474]: [EvaluatorTracing] Tracing not enabled or OTLP HTTP receiver not configured
+2026-10-19T14:37:58.454Z [DEBUG] [logger-ChlKG5Wv.js:1474]: [EvaluatorTracing] tracing.enabled: undefined
+2026-10-19T14:37:58.454Z [DEBUG] [logger-ChlKG5Wv.js:1474]: [EvaluatorTracing] tracing.otlp.http.enabled: undefined
+2026-10-19T14:37:58.455Z [INFO]: Starting evaluation eval-US7-2026-10-19T14:37:58
+2026-10-19T14:37:58.466Z [DEBUG] [logger-ChlKG5Wv.js:1474]: [Evaluator] Tracing check: env=false, testCase.metadata?.tracingEnabled=undefined, testSuite.tracing?.enabled=undefined, tracingEnabled=false
+2026-10-19T14:37:58.466Z [DEBUG] [logger-ChlKG5Wv.js:1474]: [Evaluator] Tracing check: env=false, testCase.metadata?.tracingEnabled=undefined, testSuite.tracing?.enabled=undefined, tracingEnabled=false
+2026-10-19T14:37:58.467Z [DEBUG] [logger-ChlKG5Wv.js:1474]: [Evaluator] Tracing check: env=false, testCase.metadata?.tracingEnabled=undefined, testSuite.tracing?.enabled=undefined, tracingEnabled=false
+2026-10-19T14:37:58.472Z [DEBUG] [logger-ChlKG5Wv.js:1474]: [Evaluator] Tracing check: env=false, testCase.metadata?.tracingEnabled=undefined, testSuite.tracing?.enabled=undefined, tracingEnabled=false
+2026-10-19T14:37:58.473Z [DEBUG] [logger-ChlKG5Wv.js:1474]: [Evaluator] Tracing check: env=false, testCase.metadata?.tracingEnabled=undefined, testSuite.tracing?.enabled=undefined, tracingEnabled=false
+2026-10-19T14:37:58.474Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Progress bar settings: showProgressBar=false, isWebUI=false
+2026-10-19T14:37:58.475Z [INFO]: Running 5 test cases (up to 1 at a time)...
+2026-10-19T14:37:58.475Z [INFO]: Serial grading grouping disabled because per-eval-step timeout is configured; model-graded judges may reload between rows.
+2026-10-19T14:37:58.494Z [DEBUG] [logger-ChlKG5Wv.js:1474]: [EvaluatorTracing] isTracingEnabled check: metadata=false, yamlConfig=false, env=false, result=false
+2026-10-19T14:37:58.496Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Provider type: openai:codex-sdk
+2026-10-19T14:37:59.001Z [DEBUG] [logger-ChlKG5Wv.js:1474]: [CodexSDK] No explicit API credentials configured; deferring auth resolution to Codex SDK login state
+2026-10-19T14:37:59.015Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"C:\\Users\\kerol\\AppData\\Roaming\\npm\\node_modules\\promptfoo\\node_modules\\@openai\\codex-sdk\\dist\\index.js","moduleId":"C:\\Users\\kerol\\AppData\\Roaming\\npm\\node_modules\\promptfoo\\node_modules\\@openai\\codex-sdk\\dist\\index.js"}
+2026-10-19T14:37:59.015Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///C:/Users/kerol/AppData/Roaming/npm/node_modules/promptfoo/node_modules/@openai/codex-sdk/dist/index.js
+2026-10-19T14:37:59.032Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Successfully imported module: {"resolvedPath":"file:///C:/Users/kerol/AppData/Roaming/npm/node_modules/promptfoo/node_modules/@openai/codex-sdk/dist/index.js","moduleId":"C:\\Users\\kerol\\AppData\\Roaming\\npm\\node_modules\\promptfoo\\node_modules\\@openai\\codex-sdk\\dist\\index.js"}
+2026-10-19T14:38:11.215Z [DEBUG] [logger-ChlKG5Wv.js:1480]: Codex item completed
+{
+  "itemId": "item_0",
+  "type": "error",
+  "durationMs": 2528
+}
+2026-10-19T14:38:12.833Z [DEBUG] [logger-ChlKG5Wv.js:1480]: Codex stream error event received; waiting for terminal event
+{
+  "error": "You've hit your usage limit. Upgrade to Pro (https://chatgpt.com/explore/pro), visit https://chatgpt.com/codex/settings/usage to purchase more credits or try again at 6:36 PM."
+}
+2026-10-19T14:38:12.846Z [ERROR]: Codex turn failed
+{
+  "error": "You've hit your usage limit. Upgrade to Pro (https://chatgpt.com/explore/pro), visit https://chatgpt.com/codex/settings/usage to purchase more credits or try again at 6:36 PM."
+}
+2026-10-19T14:38:12.848Z [ERROR]: Error calling OpenAI Codex SDK
+{
+  "error": "Codex turn failed: You've hit your usage limit. Upgrade to Pro (https://chatgpt.com/explore/pro), visit https://chatgpt.com/codex/settings/usage to purchase more credits or try again at 6:36 PM."
+}
+2026-10-19T14:38:12.855Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Provider response properties: error
+2026-10-19T14:38:12.855Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Provider response cached property explicitly: undefined
+2026-10-19T14:38:12.856Z [DEBUG] [logger-ChlKG5Wv.js:1480]: Evaluator response
+{
+  "responsePreview": "{\"error\":\"Error calling OpenAI Codex SDK: Codex turn failed: You've hit your usage limit. Upgrade to"
+}
+2026-10-19T14:38:12.856Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Evaluator checking cached flag: response.cached = false, provider.delay = 0
+2026-10-19T14:38:12.917Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Eval #1 complete (1 of 5)
+2026-10-19T14:38:12.932Z [DEBUG] [logger-ChlKG5Wv.js:1474]: [EvaluatorTracing] isTracingEnabled check: metadata=false, yamlConfig=false, env=false, result=false
+2026-10-19T14:38:12.932Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Provider type: openai:codex-sdk
+2026-10-19T14:38:13.471Z [DEBUG] [logger-ChlKG5Wv.js:1474]: [CodexSDK] No explicit API credentials configured; deferring auth resolution to Codex SDK login state
+2026-10-19T14:38:22.542Z [DEBUG] [logger-ChlKG5Wv.js:1480]: Codex stream error event received; waiting for terminal event
+{
+  "error": "You've hit your usage limit. Upgrade to Pro (https://chatgpt.com/explore/pro), visit https://chatgpt.com/codex/settings/usage to purchase more credits or try again at 6:36 PM."
+}
+2026-10-19T14:38:22.558Z [ERROR]: Codex turn failed
+{
+  "error": "You've hit your usage limit. Upgrade to Pro (https://chatgpt.com/explore/pro), visit https://chatgpt.com/codex/settings/usage to purchase more credits or try again at 6:36 PM."
+}
+2026-10-19T14:38:22.559Z [ERROR]: Error calling OpenAI Codex SDK
+{
+  "error": "Codex turn failed: You've hit your usage limit. Upgrade to Pro (https://chatgpt.com/explore/pro), visit https://chatgpt.com/codex/settings/usage to purchase more credits or try again at 6:36 PM."
+}
+2026-10-19T14:38:22.566Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Provider response properties: error
+2026-10-19T14:38:22.566Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Provider response cached property explicitly: undefined
+2026-10-19T14:38:22.566Z [DEBUG] [logger-ChlKG5Wv.js:1480]: Evaluator response
+{
+  "responsePreview": "{\"error\":\"Error calling OpenAI Codex SDK: Codex turn failed: You've hit your usage limit. Upgrade to"
+}
+2026-10-19T14:38:22.566Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Evaluator checking cached flag: response.cached = false, provider.delay = 0
+2026-10-19T14:38:22.623Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Eval #2 complete (2 of 5)
+2026-10-19T14:38:22.632Z [DEBUG] [logger-ChlKG5Wv.js:1474]: [EvaluatorTracing] isTracingEnabled check: metadata=false, yamlConfig=false, env=false, result=false
+2026-10-19T14:38:22.633Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Provider type: openai:codex-sdk
+2026-10-19T14:38:23.126Z [DEBUG] [logger-ChlKG5Wv.js:1474]: [CodexSDK] No explicit API credentials configured; deferring auth resolution to Codex SDK login state
+2026-10-19T14:38:33.463Z [DEBUG] [logger-ChlKG5Wv.js:1480]: Codex stream error event received; waiting for terminal event
+{
+  "error": "You've hit your usage limit. Upgrade to Pro (https://chatgpt.com/explore/pro), visit https://chatgpt.com/codex/settings/usage to purchase more credits or try again at 6:36 PM."
+}
+2026-10-19T14:38:33.475Z [ERROR]: Codex turn failed
+{
+  "error": "You've hit your usage limit. Upgrade to Pro (https://chatgpt.com/explore/pro), visit https://chatgpt.com/codex/settings/usage to purchase more credits or try again at 6:36 PM."
+}
+2026-10-19T14:38:33.476Z [ERROR]: Error calling OpenAI Codex SDK
+{
+  "error": "Codex turn failed: You've hit your usage limit. Upgrade to Pro (https://chatgpt.com/explore/pro), visit https://chatgpt.com/codex/settings/usage to purchase more credits or try again at 6:36 PM."
+}
+2026-10-19T14:38:33.482Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Provider response properties: error
+2026-10-19T14:38:33.482Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Provider response cached property explicitly: undefined
+2026-10-19T14:38:33.482Z [DEBUG] [logger-ChlKG5Wv.js:1480]: Evaluator response
+{
+  "responsePreview": "{\"error\":\"Error calling OpenAI Codex SDK: Codex turn failed: You've hit your usage limit. Upgrade to"
+}
+2026-10-19T14:38:33.482Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Evaluator checking cached flag: response.cached = false, provider.delay = 0
+2026-10-19T14:38:33.539Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Eval #3 complete (3 of 5)
+2026-10-19T14:38:33.548Z [DEBUG] [logger-ChlKG5Wv.js:1474]: [EvaluatorTracing] isTracingEnabled check: metadata=false, yamlConfig=false, env=false, result=false
+2026-10-19T14:38:33.548Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Provider type: openai:codex-sdk
+2026-10-19T14:38:34.034Z [DEBUG] [logger-ChlKG5Wv.js:1474]: [CodexSDK] No explicit API credentials configured; deferring auth resolution to Codex SDK login state
+2026-10-19T14:38:40.795Z [DEBUG] [logger-ChlKG5Wv.js:1480]: Codex stream error event received; waiting for terminal event
+{
+  "error": "exceeded retry limit, last status: 429 Too Many Requests"
+}
+2026-10-19T14:38:40.805Z [ERROR]: Codex turn failed
+{
+  "error": "exceeded retry limit, last status: 429 Too Many Requests"
+}
+2026-10-19T14:38:40.807Z [ERROR]: Error calling OpenAI Codex SDK
+{
+  "error": "Codex turn failed: exceeded retry limit, last status: 429 Too Many Requests"
+}
+2026-10-19T14:38:40.822Z [DEBUG] [logger-ChlKG5Wv.js:1480]: [Scheduler] Rate limit hit for openai:codex-sdk
+{
+  "retryAfterMs": 60000,
+  "resetAt": 1792420780810,
+  "concurrencyChange": {
+    "changed": false,
+    "previous": 1,
+    "current": 1,
+    "reason": "ratelimit"
+  }
+}
+2026-10-19T14:38:40.824Z [ERROR]: Provider call failed during eval
+{
+  "providerId": "openai:codex-sdk",
+  "providerLabel": "existing-context-intake-source",
+  "promptIdx": 0,
+  "testIdx": 3,
+  "error": {
+    "name": "RateLimitExhaustedError",
+    "message": "Rate limit exceeded for openai:codex-sdk after 1 attempts"
+  }
+}
+2026-10-19T14:38:40.891Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Eval #4 complete (4 of 5)
+2026-10-19T14:38:40.907Z [DEBUG] [logger-ChlKG5Wv.js:1474]: [EvaluatorTracing] isTracingEnabled check: metadata=false, yamlConfig=false, env=false, result=false
+2026-10-19T14:38:40.907Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Provider type: openai:codex-sdk
+2026-10-19T14:39:41.324Z [DEBUG] [logger-ChlKG5Wv.js:1474]: [CodexSDK] No explicit API credentials configured; deferring auth resolution to Codex SDK login state
+2026-10-19T14:39:47.942Z [DEBUG] [logger-ChlKG5Wv.js:1480]: Codex item completed
+{
+  "itemId": "item_0",
+  "type": "error",
+  "durationMs": 2951
+}
+2026-10-19T14:39:50.805Z [DEBUG] [logger-ChlKG5Wv.js:1480]: Codex stream error event received; waiting for terminal event
+{
+  "error": "exceeded retry limit, last status: 429 Too Many Requests"
+}
+2026-10-19T14:39:50.818Z [ERROR]: Codex turn failed
+{
+  "error": "exceeded retry limit, last status: 429 Too Many Requests"
+}
+2026-10-19T14:39:50.819Z [ERROR]: Error calling OpenAI Codex SDK
+{
+  "error": "Codex turn failed: exceeded retry limit, last status: 429 Too Many Requests"
+}
+2026-10-19T14:39:50.825Z [DEBUG] [logger-ChlKG5Wv.js:1480]: [Scheduler] Rate limit hit for openai:codex-sdk
+{
+  "retryAfterMs": 60000,
+  "resetAt": 1792420850820,
+  "concurrencyChange": {
+    "changed": false,
+    "previous": 1,
+    "current": 1,
+    "reason": "ratelimit"
+  }
+}
+2026-10-19T14:39:50.826Z [ERROR]: Provider call failed during eval
+{
+  "providerId": "openai:codex-sdk",
+  "providerLabel": "existing-context-intake-source",
+  "promptIdx": 0,
+  "testIdx": 4,
+  "error": {
+    "name": "RateLimitExhaustedError",
+    "message": "Rate limit exceeded for openai:codex-sdk after 1 attempts"
+  }
+}
+2026-10-19T14:39:50.885Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Eval #5 complete (5 of 5)
+2026-10-19T14:39:50.893Z [DEBUG] [logger-ChlKG5Wv.js:1480]: [Scheduler] Final metrics for openai:codex-sdk
+{
+  "totalRequests": 5,
+  "completedRequests": 3,
+  "failedRequests": 2,
+  "rateLimitHits": 2,
+  "retriedRequests": 0,
+  "avgLatencyMs": 10417,
+  "p50LatencyMs": 10002,
+  "p99LatencyMs": 10843
+}
+2026-10-19T14:39:50.894Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Wants to share: false
+2026-10-19T14:39:50.894Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Can share eval: false
+2026-10-19T14:39:50.903Z [INFO]: ✓ Eval complete
+2026-10-19T14:39:50.903Z [INFO]: 
+2026-10-19T14:39:50.903Z [INFO]: 
+2026-10-19T14:39:50.903Z [INFO]: Results:
+2026-10-19T14:39:50.903Z [INFO]:   0 passed (0%)
+2026-10-19T14:39:50.903Z [INFO]:   0 failed (0%)
+2026-10-19T14:39:50.903Z [INFO]:   ✗ 5 errors (100%)
+2026-10-19T14:39:50.903Z [INFO]: Duration: 1m 54s (concurrency: 1)
+2026-10-19T14:39:50.903Z [INFO]: 
+2026-10-19T14:39:50.904Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Shareable URL: null
+2026-10-19T14:39:50.963Z [DEBUG] [logger-ChlKG5Wv.js:1474]: [TraceStore] Creating new TraceStore instance
+2026-10-19T14:39:50.964Z [DEBUG] [logger-ChlKG5Wv.js:1474]: [TraceStore] Fetching traces for evaluation eval-US7-2026-10-19T14:37:58
+2026-10-19T14:39:50.964Z [DEBUG] [logger-ChlKG5Wv.js:1474]: [TraceStore] Initializing database connection
+2026-10-19T14:39:50.973Z [DEBUG] [logger-ChlKG5Wv.js:1474]: [TraceStore] Found 0 traces for evaluation eval-US7-2026-10-19T14:37:58
+2026-10-19T14:39:50.973Z [DEBUG] [logger-ChlKG5Wv.js:1474]: [TraceStore] Returning 0 traces with spans
+2026-10-19T14:39:51.039Z [INFO]: Writing output to promptfoo/results/uc-fail-rerun-20261019-173747.json
+2026-10-19T14:39:51.040Z [INFO]: 
+There were some errors during the operation. See logs for more details.
+Error log: K:\sw_context-layer\promptfooesults\logs\promptfoo-error-2026-10-19_14-37-56-291Z.log
+Debug log: K:\sw_context-layer\promptfooesults\logs\promptfoo-debug-2026-10-19_14-37-56-291Z.log
+2026-10-19T14:39:51.046Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Shutting down gracefully...
+2026-10-19T14:39:51.054Z [DEBUG] [logger-ChlKG5Wv.js:1480]: Successfully checkpointed WAL file before closing
+{
+  "busy": 0,
+  "log": 0,
+  "checkpointed": 0
+}
+2026-10-19T14:39:51.054Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Database connection closed successfully
+2026-10-19T14:39:51.061Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Closing logger file transports

@@ -1,0 +1,52 @@
+{
+  "UC-01": {},
+  "UC-02": {},
+  "UC-03": {},
+  "UC-04": {
+    "approved.md": "62f58488418da719a17cbfe14c29a560c2a8f46a5a73daa1ee0904c275e55308",
+    "invoice_service.py": "e640dab5ff521f55336146e2bcbd41dafd1aab90c94598e3f132ab61d030a202"
+  },
+  "UC-05": {},
+  "UC-06": {
+    "docs/intake/ops-6-1e57d059a65f/HANDOFF.md": "468d41382759f347788ed51e7d836f91fb5cdd923fac70b3b7b58e7a89f6711b"
+  },
+  "UC-07": {},
+  "UC-08": {
+    "approved.md": "d4a27e4e56a68f8e4e3d44fbc957b2bf8c5716baf958a5979ed90b49050d6c14",
+    "sales.md": "26bffa1fd884b5590c1b16d920b1c1f852c8312642bab77c0843aea234890660"
+  },
+  "UC-09": {},
+  "UC-10": {},
+  "UC-11": {},
+  "UC-12": {},
+  "UC-13": {},
+  "UC-14": {},
+  "UC-15": {},
+  "UC-16": {},
+  "UC-17": {},
+  "UC-18": {},
+  "UC-19": {},
+  "UC-20": {},
+  "UC-21": {
+    "recovery.py": "ae62edbf0a6458c13f40ef141f5d046677adcc71dc97b12ebb4e4faf25d73092"
+  },
+  "UC-22": {},
+  "UC-23": {
+    "policy-a.md": "3be1abfd5c279844ea9b298e0ee03f0ae251b6ae2fabf9f90fa2443abf3dd19d",
+    "policy-b.md": "2ae8d1db4ffe7f80ae5e27a5bd8912521f310a35d0de6d9c528843993a6e2877"
+  },
+  "UC-24": {},
+  "UC-25": {},
+  "UC-26": {},
+  "UC-27": {},
+  "UC-28": {},
+  "UC-29": {},
+  "UC-30": {},
+  "UC-31": {},
+  "UC-32": {},
+  "UC-33": {
+    "docs/intake/ops-33-278481066f7f/HANDOFF.md": "eaba6b7fe73b4af8c4f6cc9616d7843ad60cd42d2e1ea3fe707bb80a451a51d8"
+  },
+  "UC-34": {},
+  "UC-35": {}
+}

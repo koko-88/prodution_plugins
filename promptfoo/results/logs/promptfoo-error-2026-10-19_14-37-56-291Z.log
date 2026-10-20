@@ -1,0 +1,62 @@
+2026-10-19T14:38:12.846Z [ERROR]: Codex turn failed
+{
+  "error": "You've hit your usage limit. Upgrade to Pro (https://chatgpt.com/explore/pro), visit https://chatgpt.com/codex/settings/usage to purchase more credits or try again at 6:36 PM."
+}
+2026-10-19T14:38:12.848Z [ERROR]: Error calling OpenAI Codex SDK
+{
+  "error": "Codex turn failed: You've hit your usage limit. Upgrade to Pro (https://chatgpt.com/explore/pro), visit https://chatgpt.com/codex/settings/usage to purchase more credits or try again at 6:36 PM."
+}
+2026-10-19T14:38:22.558Z [ERROR]: Codex turn failed
+{
+  "error": "You've hit your usage limit. Upgrade to Pro (https://chatgpt.com/explore/pro), visit https://chatgpt.com/codex/settings/usage to purchase more credits or try again at 6:36 PM."
+}
+2026-10-19T14:38:22.559Z [ERROR]: Error calling OpenAI Codex SDK
+{
+  "error": "Codex turn failed: You've hit your usage limit. Upgrade to Pro (https://chatgpt.com/explore/pro), visit https://chatgpt.com/codex/settings/usage to purchase more credits or try again at 6:36 PM."
+}
+2026-10-19T14:38:33.475Z [ERROR]: Codex turn failed
+{
+  "error": "You've hit your usage limit. Upgrade to Pro (https://chatgpt.com/explore/pro), visit https://chatgpt.com/codex/settings/usage to purchase more credits or try again at 6:36 PM."
+}
+2026-10-19T14:38:33.476Z [ERROR]: Error calling OpenAI Codex SDK
+{
+  "error": "Codex turn failed: You've hit your usage limit. Upgrade to Pro (https://chatgpt.com/explore/pro), visit https://chatgpt.com/codex/settings/usage to purchase more credits or try again at 6:36 PM."
+}
+2026-10-19T14:38:40.805Z [ERROR]: Codex turn failed
+{
+  "error": "exceeded retry limit, last status: 429 Too Many Requests"
+}
+2026-10-19T14:38:40.807Z [ERROR]: Error calling OpenAI Codex SDK
+{
+  "error": "Codex turn failed: exceeded retry limit, last status: 429 Too Many Requests"
+}
+2026-10-19T14:38:40.824Z [ERROR]: Provider call failed during eval
+{
+  "providerId": "openai:codex-sdk",
+  "providerLabel": "existing-context-intake-source",
+  "promptIdx": 0,
+  "testIdx": 3,
+  "error": {
+    "name": "RateLimitExhaustedError",
+    "message": "Rate limit exceeded for openai:codex-sdk after 1 attempts"
+  }
+}
+2026-10-19T14:39:50.818Z [ERROR]: Codex turn failed
+{
+  "error": "exceeded retry limit, last status: 429 Too Many Requests"
+}
+2026-10-19T14:39:50.819Z [ERROR]: Error calling OpenAI Codex SDK
+{
+  "error": "Codex turn failed: exceeded retry limit, last status: 429 Too Many Requests"
+}
+2026-10-19T14:39:50.826Z [ERROR]: Provider call failed during eval
+{
+  "providerId": "openai:codex-sdk",
+  "providerLabel": "existing-context-intake-source",
+  "promptIdx": 0,
+  "testIdx": 4,
+  "error": {
+    "name": "RateLimitExhaustedError",
+    "message": "Rate limit exceeded for openai:codex-sdk after 1 attempts"
+  }
+}

@@ -1,0 +1,8 @@
+2026-10-19T13:01:53.946Z [ERROR]: Codex turn failed
+{
+  "error": "{\"type\":\"error\",\"status\":400,\"error\":{\"type\":\"invalid_request_error\",\"message\":\"The 'gpt-6.1-sol' model is not supported when using Codex with a ChatGPT account.\"}}"
+}
+2026-10-19T13:01:53.948Z [ERROR]: Error calling OpenAI Codex SDK
+{
+  "error": "Codex turn failed: {\"type\":\"error\",\"status\":400,\"error\":{\"type\":\"invalid_request_error\",\"message\":\"The 'gpt-6.1-sol' model is not supported when using Codex with a ChatGPT account.\"}}"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": "1.0.0",
+  "title": "Intake Handoff",
+  "headings": ["Identity & Stage", "Intent & Outcomes", "Current State & Evidence", "Actors & Scenarios", "Scope & Exclusions", "Constraints & Dependencies", "Decisions & Assumptions", "Open Gaps & Owners", "Context Pointers", "Readiness & Next Handoff"],
+  "blocks": {"Identity & Stage": "identity", "Current State & Evidence": "evidence", "Actors & Scenarios": "scenarios", "Decisions & Assumptions": "decisions", "Open Gaps & Owners": "gaps", "Readiness & Next Handoff": "readiness"},
+  "statuses": ["ready_for_domain_acquisition", "needs_user_decision", "needs_other_stakeholder", "blocked_evidence"],
+  "gap_types": ["user_decision", "other_stakeholder", "repo_fact", "external_fact", "empirical_validation"],
+  "evidence_classes": ["direct", "supported", "inferred", "speculative", "unknown"],
+  "identity_fields": ["id", "schema_version", "request_key", "slug", "domain", "scope", "status", "owner", "updated_by", "updated_at", "canonical_path", "approval"],
+  "evidence_fields": ["id", "claim", "kind", "class", "source", "authority", "observed_at"],
+  "scenario_fields": ["id", "actor", "goal", "trigger", "preconditions", "main_path", "alternatives", "failures", "postconditions", "rules", "status", "sources"],
+  "decision_fields": ["id", "statement", "status", "origin", "authority", "sources", "consequence"],
+  "gap_fields": ["id", "type", "question", "impact", "blocking", "state", "owner", "route", "depends_on", "sources"],
+  "readiness_fields": ["status", "sufficiently_known", "next_receiver", "actions", "limitations"]
+}

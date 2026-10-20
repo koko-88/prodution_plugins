@@ -1,0 +1,19 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "context-intake",
+  "version": "0.1.0",
+  "description": "Recover context, clarify user requirements and scenarios, and produce an evidence-linked handoff before specialized domain work.",
+  "keywords": ["requirements", "context", "intake", "handoff"],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Shared Context Intake",
+        "shortDescription": "Context before domain work",
+        "longDescription": "Understand a prompt, recover accepted decisions, discover actors and end-to-end scenarios, resolve consequential gaps, and safely hand off to Software, UI/UX, automation or another domain. Uses existing host tools and a versioned local handoff contract.",
+        "category": "Productivity",
+        "capabilities": [],
+        "defaultPrompt": "Use $context-intake:context-intake to understand my request, recover available context, clarify material requirements and prepare the pre-domain handoff."
+      }
+    }
+  }
+}

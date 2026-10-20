@@ -1,0 +1,59 @@
+{
+  "schema_version": "1.1.0",
+  "sources": 442,
+  "variants": 519,
+  "counts_by_status": {
+    "blocked_unverified": 5,
+    "conditional_method": 245,
+    "delegated": 54,
+    "excluded_with_reason": 21,
+    "integrated": 18,
+    "specialist_only": 176
+  },
+  "blocked_unverified": [
+    {
+      "id": "method-addy-missing-definition-of-done",
+      "source_ids": [
+        "method-source-83b98b21acbf4e42"
+      ],
+      "reason": "Linked source is missing; its semantics are unavailable and are not inferred."
+    },
+    {
+      "id": "method-addy-missing-orchestration-patterns",
+      "source_ids": [
+        "method-source-538c4feb9c7e2343"
+      ],
+      "reason": "Linked source is missing; its semantics are unavailable and are not inferred."
+    },
+    {
+      "id": "cline-native-plan-act",
+      "source_ids": [
+        "local-84d0133388be7145"
+      ],
+      "reason": "Manifest inspected; native question/confirmation behavior not established. No binary was launched or inferred from its package name"
+    },
+    {
+      "id": "opencode-native-interview",
+      "source_ids": [
+        "local-8de0954a854b7bd1"
+      ],
+      "reason": "Manifest inspected; native question/confirmation behavior not established. No binary was launched or inferred from its package name"
+    },
+    {
+      "id": "serena-fact-route",
+      "source_ids": [
+        "local-9e0c33c8123f4540"
+      ],
+      "reason": "Recorded checkout file is unavailable in the relocated uv environment; native MCP manual was read, no source implementation parity claimed"
+    }
+  ],
+  "validation": "Not run: user requested source/variant coverage only and prohibited validations/evaluations.",
+  "review_inputs": [
+    "docs/intake-implementation/coverage-augmentation/completion.json",
+    "docs/intake-implementation/coverage-augmentation/methodologies.json",
+    "docs/intake-implementation/coverage-augmentation/methods.json",
+    "docs/intake-implementation/coverage-augmentation/models.json",
+    "docs/intake-implementation/coverage-augmentation/routing.json",
+    "docs/intake-implementation/coverage-augmentation/specialists.json"
+  ]
+}

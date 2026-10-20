@@ -1,0 +1,43 @@
+2026-10-20T08:10:32.325Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Successfully enabled SQLite WAL mode
+2026-10-20T08:10:32.327Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Running database migrations from: C:\Users\kerol\AppData\Roaming\npm\node_modules\promptfoo\dist\drizzle
+2026-10-20T08:10:32.343Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Database migrations completed
+2026-10-20T08:10:32.351Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\production_plugins\\context-intake\\promptfooconfig.cjs","moduleId":"K:\\production_plugins\\context-intake\\promptfooconfig.cjs"}
+2026-10-20T08:10:32.352Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/production_plugins/context-intake/promptfooconfig.cjs
+2026-10-20T08:10:32.356Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\production_plugins\\context-intake\\promptfooconfig.cts","moduleId":"K:\\production_plugins\\context-intake\\promptfooconfig.cts"}
+2026-10-20T08:10:32.356Z [DEBUG] [logger-ChlKG5Wv.js:1474]: TypeScript module detected, registering tsx loader
+2026-10-20T08:10:32.423Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/production_plugins/context-intake/promptfooconfig.cts
+2026-10-20T08:10:32.430Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\production_plugins\\context-intake\\promptfooconfig.js","moduleId":"K:\\production_plugins\\context-intake\\promptfooconfig.js"}
+2026-10-20T08:10:32.430Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/production_plugins/context-intake/promptfooconfig.js
+2026-10-20T08:10:32.437Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\production_plugins\\context-intake\\promptfooconfig.mjs","moduleId":"K:\\production_plugins\\context-intake\\promptfooconfig.mjs"}
+2026-10-20T08:10:32.437Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/production_plugins/context-intake/promptfooconfig.mjs
+2026-10-20T08:10:32.443Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\production_plugins\\context-intake\\promptfooconfig.mts","moduleId":"K:\\production_plugins\\context-intake\\promptfooconfig.mts"}
+2026-10-20T08:10:32.444Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/production_plugins/context-intake/promptfooconfig.mts
+2026-10-20T08:10:32.450Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\production_plugins\\context-intake\\promptfooconfig.ts","moduleId":"K:\\production_plugins\\context-intake\\promptfooconfig.ts"}
+2026-10-20T08:10:32.450Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/production_plugins/context-intake/promptfooconfig.ts
+2026-10-20T08:10:32.470Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\production_plugins\\context-intake\\redteam.cjs","moduleId":"K:\\production_plugins\\context-intake\\redteam.cjs"}
+2026-10-20T08:10:32.470Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/production_plugins/context-intake/redteam.cjs
+2026-10-20T08:10:32.477Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\production_plugins\\context-intake\\redteam.cts","moduleId":"K:\\production_plugins\\context-intake\\redteam.cts"}
+2026-10-20T08:10:32.477Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/production_plugins/context-intake/redteam.cts
+2026-10-20T08:10:32.484Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\production_plugins\\context-intake\\redteam.js","moduleId":"K:\\production_plugins\\context-intake\\redteam.js"}
+2026-10-20T08:10:32.484Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/production_plugins/context-intake/redteam.js
+2026-10-20T08:10:32.491Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\production_plugins\\context-intake\\redteam.mjs","moduleId":"K:\\production_plugins\\context-intake\\redteam.mjs"}
+2026-10-20T08:10:32.491Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/production_plugins/context-intake/redteam.mjs
+2026-10-20T08:10:32.498Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\production_plugins\\context-intake\\redteam.mts","moduleId":"K:\\production_plugins\\context-intake\\redteam.mts"}
+2026-10-20T08:10:32.498Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/production_plugins/context-intake/redteam.mts
+2026-10-20T08:10:32.504Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\production_plugins\\context-intake\\redteam.ts","moduleId":"K:\\production_plugins\\context-intake\\redteam.ts"}
+2026-10-20T08:10:32.505Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/production_plugins/context-intake/redteam.ts
+2026-10-20T08:10:32.739Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Reading prompts from ["file://K:\\production_plugins\\context-intake\\promptfoo\\prompt.txt"]
+2026-10-20T08:10:32.752Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\production_plugins\\context-intake\\promptfoo\\providers\\cursor-agent.js","moduleId":"promptfoo\\providers\\cursor-agent.js"}
+2026-10-20T08:10:32.758Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/production_plugins/context-intake/promptfoo/providers/cursor-agent.js
+2026-10-20T08:10:32.780Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Successfully imported module: {"resolvedPath":"file:///K:/production_plugins/context-intake/promptfoo/providers/cursor-agent.js","moduleId":"promptfoo\\providers\\cursor-agent.js"}
+2026-10-20T08:10:32.794Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Dereferencing test file: K:\production_plugins\context-intake\promptfoo\cases.yaml
+2026-10-20T08:10:32.817Z [INFO]: Configuration is valid.
+2026-10-20T08:10:32.822Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Shutting down gracefully...
+2026-10-20T08:10:32.830Z [DEBUG] [logger-ChlKG5Wv.js:1480]: Successfully checkpointed WAL file before closing
+{
+  "busy": 0,
+  "log": 0,
+  "checkpointed": 0
+}
+2026-10-20T08:10:32.830Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Database connection closed successfully
+2026-10-20T08:10:32.836Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Closing logger file transports

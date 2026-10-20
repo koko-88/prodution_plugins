@@ -1,0 +1,2910 @@
+{
+  "schema_version": "1.0.0",
+  "source_index": "prior-audit.md",
+  "scope": "Material method families, named variants and discovery-only statements from the prior audit plus current augmentation",
+  "interpretation": "Routes identify authored dispositions. They are not a conformance test, runtime verification or claim that every installed skill is relevant.",
+  "items": [
+    {
+      "id": "audit-matt-grilling",
+      "audit_lines": "76-104",
+      "claim": "Matt Pocock grilling",
+      "source_selectors": [
+        "/grilling/skill.md"
+      ],
+      "variant_ids": [
+        "method-matt-proposal-leading",
+        "matt-grilling-deep-stop",
+        "matt-grilling-fact-routing",
+        "matt-grilling-frontier"
+      ],
+      "dispositions": {
+        "conditional_method": 4
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-matt-grill-me",
+      "audit_lines": "76-104",
+      "claim": "Matt Pocock grill-me",
+      "source_selectors": [
+        "/grill-me/skill.md"
+      ],
+      "variant_ids": [
+        "matt-grill-me-stateless-wrapper"
+      ],
+      "dispositions": {
+        "conditional_method": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-matt-grill-with-docs",
+      "audit_lines": "76-104",
+      "claim": "Matt Pocock grill-with-docs",
+      "source_selectors": [
+        "/grill-with-docs/skill.md"
+      ],
+      "variant_ids": [
+        "matt-grill-with-docs-domain-composition"
+      ],
+      "dispositions": {
+        "conditional_method": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-matt-domain-modeling",
+      "audit_lines": "76-104",
+      "claim": "Matt Pocock domain-modeling",
+      "source_selectors": [
+        "/domain-modeling/skill.md"
+      ],
+      "variant_ids": [
+        "matt-domain-modeling-adr",
+        "matt-domain-modeling-scenarios",
+        "matt-domain-modeling-terms"
+      ],
+      "dispositions": {
+        "conditional_method": 3
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-matt-ask-matt",
+      "audit_lines": "76-104",
+      "claim": "Matt Pocock ask-matt",
+      "source_selectors": [
+        "/ask-matt/skill.md"
+      ],
+      "variant_ids": [
+        "matt-ask-matt-router"
+      ],
+      "dispositions": {
+        "specialist_only": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-matt-wayfinder",
+      "audit_lines": "76-104",
+      "claim": "Matt Pocock wayfinder",
+      "source_selectors": [
+        "/wayfinder/skill.md"
+      ],
+      "variant_ids": [
+        "method-matt-fog-versus-blocked",
+        "method-matt-index-not-store",
+        "method-matt-manual-prerequisite",
+        "matt-wayfinder-decision-map",
+        "matt-wayfinder-hitl",
+        "matt-wayfinder-lifecycle"
+      ],
+      "dispositions": {
+        "conditional_method": 3,
+        "delegated": 1,
+        "integrated": 1,
+        "specialist_only": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-matt-to-questionnaire",
+      "audit_lines": "76-104",
+      "claim": "Matt Pocock to-questionnaire",
+      "source_selectors": [
+        "/to-questionnaire/skill.md"
+      ],
+      "variant_ids": [
+        "matt-to-questionnaire-async",
+        "matt-to-questionnaire-recipient"
+      ],
+      "dispositions": {
+        "conditional_method": 2
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-matt-triage",
+      "audit_lines": "76-104",
+      "claim": "Matt Pocock triage",
+      "source_selectors": [
+        "/triage/skill.md"
+      ],
+      "variant_ids": [
+        "matt-triage-resume",
+        "matt-triage-tracker",
+        "matt-triage-verify-first"
+      ],
+      "dispositions": {
+        "conditional_method": 2,
+        "specialist_only": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-matt-to-spec",
+      "audit_lines": "76-104",
+      "claim": "Matt Pocock to-spec",
+      "source_selectors": [
+        "/to-spec/skill.md"
+      ],
+      "variant_ids": [
+        "matt-to-spec-publication",
+        "matt-to-spec-synthesis"
+      ],
+      "dispositions": {
+        "conditional_method": 1,
+        "specialist_only": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-matt-to-tickets",
+      "audit_lines": "76-104",
+      "claim": "Matt Pocock to-tickets",
+      "source_selectors": [
+        "/to-tickets/skill.md"
+      ],
+      "variant_ids": [
+        "matt-to-tickets-dependency"
+      ],
+      "dispositions": {
+        "specialist_only": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-matt-prototype",
+      "audit_lines": "76-104",
+      "claim": "Matt Pocock prototype",
+      "source_selectors": [
+        "/prototype/skill.md"
+      ],
+      "variant_ids": [
+        "matt-prototype-logic",
+        "matt-prototype-ui"
+      ],
+      "dispositions": {
+        "delegated": 1,
+        "specialist_only": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-matt-research",
+      "audit_lines": "76-104",
+      "claim": "Matt Pocock research",
+      "source_selectors": [
+        "/research/skill.md"
+      ],
+      "variant_ids": [
+        "matt-research-primary"
+      ],
+      "dispositions": {
+        "delegated": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-matt-handoff",
+      "audit_lines": "76-104",
+      "claim": "Matt Pocock handoff",
+      "source_selectors": [
+        "/handoff/skill.md"
+      ],
+      "variant_ids": [
+        "matt-handoff-pointers",
+        "matt-handoff-temp-path"
+      ],
+      "dispositions": {
+        "conditional_method": 1,
+        "excluded_with_reason": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-matt-wait-what",
+      "audit_lines": "76-104",
+      "claim": "Matt Pocock wait-what",
+      "source_selectors": [
+        "/wait-what/skill.md"
+      ],
+      "variant_ids": [
+        "matt-wait-what-correction"
+      ],
+      "dispositions": {
+        "conditional_method": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-matt-setup-matt-pocock-skills",
+      "audit_lines": "76-104",
+      "claim": "Matt Pocock setup-matt-pocock-skills",
+      "source_selectors": [
+        "/setup-matt-pocock-skills/skill.md"
+      ],
+      "variant_ids": [],
+      "dispositions": {},
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-gstack-office-hours",
+      "audit_lines": "106-133",
+      "claim": "gstack office-hours",
+      "source_selectors": [
+        "/gstack-office-hours/",
+        "/repos/gstack/office-hours/"
+      ],
+      "variant_ids": [
+        "gstack-office-hours-alternatives",
+        "gstack-office-hours-builder",
+        "gstack-office-hours-dual-write-review",
+        "gstack-office-hours-internal",
+        "gstack-office-hours-premise",
+        "gstack-office-hours-stage",
+        "gstack-office-hours-startup"
+      ],
+      "dispositions": {
+        "conditional_method": 6,
+        "specialist_only": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-gstack-spec",
+      "audit_lines": "106-133",
+      "claim": "gstack spec",
+      "source_selectors": [
+        "/gstack-spec/",
+        "/repos/gstack/spec/"
+      ],
+      "variant_ids": [
+        "method-gstack-spec-code-first",
+        "method-gstack-spec-dedupe-failure",
+        "method-gstack-spec-five-foundations",
+        "method-gstack-spec-prohibitions",
+        "method-gstack-spec-publication",
+        "method-gstack-spec-round-budget"
+      ],
+      "dispositions": {
+        "conditional_method": 4,
+        "integrated": 1,
+        "specialist_only": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-gstack-plan-ceo-review",
+      "audit_lines": "106-133",
+      "claim": "gstack plan-ceo-review",
+      "source_selectors": [
+        "/gstack-plan-ceo-review/",
+        "/repos/gstack/plan-ceo-review/"
+      ],
+      "variant_ids": [
+        "method-gstack-ceo-async-orders",
+        "method-gstack-ceo-depth",
+        "method-gstack-ceo-effects",
+        "method-gstack-ceo-four-modes",
+        "method-gstack-ceo-ledger",
+        "method-gstack-ceo-proof-limits",
+        "method-gstack-ceo-rescue",
+        "method-gstack-ceo-runner-profile",
+        "method-gstack-ceo-specialist-passes",
+        "method-gstack-ceo-temporal"
+      ],
+      "dispositions": {
+        "conditional_method": 6,
+        "integrated": 1,
+        "specialist_only": 3
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-gstack-plan-eng-review",
+      "audit_lines": "106-133",
+      "claim": "gstack plan-eng-review",
+      "source_selectors": [
+        "/gstack-plan-eng-review/",
+        "/repos/gstack/plan-eng-review/"
+      ],
+      "variant_ids": [
+        "gstack-plan-eng-review-precondition"
+      ],
+      "dispositions": {
+        "delegated": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-gstack-plan-design-review",
+      "audit_lines": "106-133",
+      "claim": "gstack plan-design-review",
+      "source_selectors": [
+        "/gstack-plan-design-review/",
+        "/repos/gstack/plan-design-review/"
+      ],
+      "variant_ids": [
+        "method-gstack-design-emotion",
+        "method-gstack-design-information",
+        "method-gstack-design-plan-effects",
+        "method-gstack-design-states"
+      ],
+      "dispositions": {
+        "conditional_method": 3,
+        "specialist_only": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-gstack-plan-devex-review",
+      "audit_lines": "106-133",
+      "claim": "gstack plan-devex-review",
+      "source_selectors": [
+        "/gstack-plan-devex-review/",
+        "/repos/gstack/plan-devex-review/"
+      ],
+      "variant_ids": [
+        "gstack-plan-devex-review-journey"
+      ],
+      "dispositions": {
+        "conditional_method": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-gstack-design-consultation",
+      "audit_lines": "106-133",
+      "claim": "gstack design-consultation",
+      "source_selectors": [
+        "/gstack-design-consultation/",
+        "/repos/gstack/design-consultation/"
+      ],
+      "variant_ids": [
+        "gstack-design-consultation-context",
+        "gstack-design-consultation-taste"
+      ],
+      "dispositions": {
+        "conditional_method": 1,
+        "specialist_only": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-gstack-plan-tune",
+      "audit_lines": "106-133",
+      "claim": "gstack plan-tune",
+      "source_selectors": [
+        "/gstack-plan-tune/",
+        "/repos/gstack/plan-tune/"
+      ],
+      "variant_ids": [
+        "method-gstack-tune-effects",
+        "method-gstack-tune-one-way",
+        "method-gstack-tune-origin",
+        "method-gstack-tune-profile-authority"
+      ],
+      "dispositions": {
+        "conditional_method": 1,
+        "integrated": 2,
+        "specialist_only": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-gstack-learn",
+      "audit_lines": "106-133",
+      "claim": "gstack learn",
+      "source_selectors": [
+        "/gstack-learn/",
+        "/repos/gstack/learn/"
+      ],
+      "variant_ids": [
+        "method-gstack-learn-effects",
+        "method-gstack-learn-stale"
+      ],
+      "dispositions": {
+        "conditional_method": 1,
+        "specialist_only": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-gstack-autoplan",
+      "audit_lines": "106-133",
+      "claim": "gstack autoplan",
+      "source_selectors": [
+        "/gstack-autoplan/",
+        "/repos/gstack/autoplan/"
+      ],
+      "variant_ids": [
+        "method-gstack-autoplan-authority",
+        "method-gstack-autoplan-sequence"
+      ],
+      "dispositions": {
+        "conditional_method": 1,
+        "specialist_only": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-gstack-gstack",
+      "audit_lines": "106-133",
+      "claim": "gstack gstack",
+      "source_selectors": [
+        "/gstack-gstack/skill.md",
+        "/repos/gstack/gstack/skill.md",
+        "/.codex/skills/gstack/skill.md"
+      ],
+      "variant_ids": [],
+      "dispositions": {},
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-gsd-new-project",
+      "audit_lines": "135-172",
+      "claim": "GSD new-project",
+      "source_selectors": [
+        "/gsd-new-project/",
+        "/workflows/new-project.md",
+        "/workflows/new-project/"
+      ],
+      "variant_ids": [
+        "gsd-new-project",
+        "model-gsd-brownfield-map-offer",
+        "model-gsd-prd-bypass"
+      ],
+      "dispositions": {
+        "conditional_method": 3
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-gsd-new-milestone",
+      "audit_lines": "135-172",
+      "claim": "GSD new-milestone",
+      "source_selectors": [
+        "/gsd-new-milestone/",
+        "/workflows/new-milestone.md",
+        "/workflows/new-milestone/"
+      ],
+      "variant_ids": [
+        "gsd-new-milestone"
+      ],
+      "dispositions": {
+        "conditional_method": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-gsd-explore",
+      "audit_lines": "135-172",
+      "claim": "GSD explore",
+      "source_selectors": [
+        "/gsd-explore/",
+        "/workflows/explore.md",
+        "/workflows/explore/"
+      ],
+      "variant_ids": [
+        "gsd-explore"
+      ],
+      "dispositions": {
+        "conditional_method": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-gsd-onboard",
+      "audit_lines": "135-172",
+      "claim": "GSD onboard",
+      "source_selectors": [
+        "/gsd-onboard/",
+        "/workflows/onboard.md",
+        "/workflows/onboard/"
+      ],
+      "variant_ids": [
+        "gsd-onboard"
+      ],
+      "dispositions": {
+        "conditional_method": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-gsd-spec-phase",
+      "audit_lines": "135-172",
+      "claim": "GSD spec-phase",
+      "source_selectors": [
+        "/gsd-spec-phase/",
+        "/workflows/spec-phase.md",
+        "/workflows/spec-phase/"
+      ],
+      "variant_ids": [
+        "gsd-spec-phase"
+      ],
+      "dispositions": {
+        "conditional_method": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-gsd-discuss-phase",
+      "audit_lines": "135-172",
+      "claim": "GSD discuss-phase",
+      "source_selectors": [
+        "/gsd-discuss-phase/",
+        "/workflows/discuss-phase.md",
+        "/workflows/discuss-phase/"
+      ],
+      "variant_ids": [
+        "gsd-assumptions-explanation",
+        "gsd-discuss-advisor",
+        "gsd-discuss-all",
+        "gsd-discuss-analyze",
+        "gsd-discuss-auto",
+        "gsd-discuss-batch",
+        "gsd-discuss-chain",
+        "gsd-discuss-default",
+        "gsd-discuss-phase",
+        "gsd-discuss-power",
+        "gsd-discuss-text",
+        "model-gsd-template-context"
+      ],
+      "dispositions": {
+        "conditional_method": 10,
+        "excluded_with_reason": 2
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-gsd-mvp-phase",
+      "audit_lines": "135-172",
+      "claim": "GSD mvp-phase",
+      "source_selectors": [
+        "/gsd-mvp-phase/",
+        "/workflows/mvp-phase.md",
+        "/workflows/mvp-phase/"
+      ],
+      "variant_ids": [
+        "gsd-mvp-phase"
+      ],
+      "dispositions": {
+        "conditional_method": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-gsd-map-codebase",
+      "audit_lines": "135-172",
+      "claim": "GSD map-codebase",
+      "source_selectors": [
+        "/gsd-map-codebase/",
+        "/workflows/map-codebase.md",
+        "/workflows/map-codebase/"
+      ],
+      "variant_ids": [
+        "gsd-map-codebase"
+      ],
+      "dispositions": {
+        "delegated": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-gsd-ingest-docs",
+      "audit_lines": "135-172",
+      "claim": "GSD ingest-docs",
+      "source_selectors": [
+        "/gsd-ingest-docs/",
+        "/workflows/ingest-docs.md",
+        "/workflows/ingest-docs/"
+      ],
+      "variant_ids": [
+        "gsd-ingest-docs"
+      ],
+      "dispositions": {
+        "conditional_method": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-gsd-spike",
+      "audit_lines": "135-172",
+      "claim": "GSD spike",
+      "source_selectors": [
+        "/gsd-spike/",
+        "/workflows/spike.md",
+        "/workflows/spike/"
+      ],
+      "variant_ids": [
+        "gsd-spike"
+      ],
+      "dispositions": {
+        "delegated": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-gsd-sketch",
+      "audit_lines": "135-172",
+      "claim": "GSD sketch",
+      "source_selectors": [
+        "/gsd-sketch/",
+        "/workflows/sketch.md",
+        "/workflows/sketch/"
+      ],
+      "variant_ids": [
+        "model-gsd-sketch"
+      ],
+      "dispositions": {
+        "specialist_only": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-gsd-ui-phase",
+      "audit_lines": "135-172",
+      "claim": "GSD ui-phase",
+      "source_selectors": [
+        "/gsd-ui-phase/",
+        "/workflows/ui-phase.md",
+        "/workflows/ui-phase/"
+      ],
+      "variant_ids": [
+        "model-gsd-ui-phase"
+      ],
+      "dispositions": {
+        "specialist_only": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-gsd-inbox",
+      "audit_lines": "135-172",
+      "claim": "GSD inbox",
+      "source_selectors": [
+        "/gsd-inbox/",
+        "/workflows/inbox.md",
+        "/workflows/inbox/"
+      ],
+      "variant_ids": [
+        "model-gsd-inbox"
+      ],
+      "dispositions": {
+        "specialist_only": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-gsd-ref-questioning",
+      "audit_lines": "156-170",
+      "claim": "GSD reference questioning",
+      "source_selectors": [
+        "/references/questioning.md"
+      ],
+      "variant_ids": [
+        "gsd-reference-questioning"
+      ],
+      "dispositions": {
+        "conditional_method": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-gsd-ref-scout-codebase",
+      "audit_lines": "156-170",
+      "claim": "GSD reference scout-codebase",
+      "source_selectors": [
+        "/references/scout-codebase.md"
+      ],
+      "variant_ids": [
+        "gsd-reference-scout-codebase"
+      ],
+      "dispositions": {
+        "conditional_method": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-gsd-ref-edge-probe",
+      "audit_lines": "156-170",
+      "claim": "GSD reference edge-probe",
+      "source_selectors": [
+        "/references/edge-probe.md"
+      ],
+      "variant_ids": [
+        "gsd-reference-edge-probe"
+      ],
+      "dispositions": {
+        "conditional_method": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-gsd-ref-prohibition-probe",
+      "audit_lines": "156-170",
+      "claim": "GSD reference prohibition-probe",
+      "source_selectors": [
+        "/references/prohibition-probe.md"
+      ],
+      "variant_ids": [
+        "gsd-reference-prohibition-probe"
+      ],
+      "dispositions": {
+        "conditional_method": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-gsd-ref-domain-probes",
+      "audit_lines": "156-170",
+      "claim": "GSD reference domain-probes",
+      "source_selectors": [
+        "/references/domain-probes.md"
+      ],
+      "variant_ids": [
+        "gsd-reference-domain-probes"
+      ],
+      "dispositions": {
+        "delegated": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-gsd-ref-spidr-splitting",
+      "audit_lines": "156-170",
+      "claim": "GSD reference spidr-splitting",
+      "source_selectors": [
+        "/references/spidr-splitting.md"
+      ],
+      "variant_ids": [
+        "gsd-reference-spidr-splitting"
+      ],
+      "dispositions": {
+        "conditional_method": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-gsd-ref-doc-conflict-engine",
+      "audit_lines": "156-170",
+      "claim": "GSD reference doc-conflict-engine",
+      "source_selectors": [
+        "/references/doc-conflict-engine.md"
+      ],
+      "variant_ids": [
+        "gsd-reference-doc-conflict-engine"
+      ],
+      "dispositions": {
+        "conditional_method": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-gsd-ref-planner-reversibility",
+      "audit_lines": "156-170",
+      "claim": "GSD reference planner-reversibility",
+      "source_selectors": [
+        "/references/planner-reversibility.md"
+      ],
+      "variant_ids": [
+        "gsd-reference-planner-reversibility"
+      ],
+      "dispositions": {
+        "conditional_method": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-gsd-ref-thinking-partner",
+      "audit_lines": "156-170",
+      "claim": "GSD reference thinking-partner",
+      "source_selectors": [
+        "/references/thinking-partner.md"
+      ],
+      "variant_ids": [
+        "gsd-reference-thinking-partner"
+      ],
+      "dispositions": {
+        "conditional_method": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-gsd-assumptions",
+      "audit_lines": "149-150; 338",
+      "claim": "Configured evidence-first assumptions differs from --assumptions explanation",
+      "source_selectors": [
+        "/discuss-phase-assumptions.md",
+        "/gsd-assumptions-analyzer.md",
+        "/gsd-discuss-phase/skill.md"
+      ],
+      "variant_ids": [
+        "gsd-assumptions-explanation",
+        "gsd-discuss-phase",
+        "gsd-evidence-first-assumptions",
+        "model-gsd-assumptions-analyzer"
+      ],
+      "dispositions": {
+        "conditional_method": 4
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-gsd-agent-assumptions-analyzer",
+      "audit_lines": "154",
+      "claim": "GSD supporting agent assumptions-analyzer",
+      "source_selectors": [
+        "/gsd-assumptions-analyzer.md"
+      ],
+      "variant_ids": [
+        "model-gsd-assumptions-analyzer"
+      ],
+      "dispositions": {
+        "conditional_method": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-gsd-agent-doc-classifier",
+      "audit_lines": "154",
+      "claim": "GSD supporting agent doc-classifier",
+      "source_selectors": [
+        "/gsd-doc-classifier.md"
+      ],
+      "variant_ids": [
+        "model-gsd-doc-classifier"
+      ],
+      "dispositions": {
+        "conditional_method": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-gsd-agent-doc-synthesizer",
+      "audit_lines": "154",
+      "claim": "GSD supporting agent doc-synthesizer",
+      "source_selectors": [
+        "/gsd-doc-synthesizer.md"
+      ],
+      "variant_ids": [
+        "model-gsd-doc-synthesizer"
+      ],
+      "dispositions": {
+        "conditional_method": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-gsd-agent-codebase-mapper",
+      "audit_lines": "154",
+      "claim": "GSD supporting agent codebase-mapper",
+      "source_selectors": [
+        "/gsd-codebase-mapper.md"
+      ],
+      "variant_ids": [
+        "model-gsd-codebase-mapper"
+      ],
+      "dispositions": {
+        "delegated": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-gsd-agent-roadmapper",
+      "audit_lines": "154",
+      "claim": "GSD supporting agent roadmapper",
+      "source_selectors": [
+        "/gsd-roadmapper.md"
+      ],
+      "variant_ids": [
+        "model-gsd-roadmapper"
+      ],
+      "dispositions": {
+        "delegated": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-gsd-agent-advisor-researcher",
+      "audit_lines": "154",
+      "claim": "GSD supporting agent advisor-researcher",
+      "source_selectors": [
+        "/gsd-advisor-researcher.md"
+      ],
+      "variant_ids": [
+        "model-gsd-advisor-researcher"
+      ],
+      "dispositions": {
+        "conditional_method": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-gsd-agent-ui-researcher",
+      "audit_lines": "154",
+      "claim": "GSD supporting agent ui-researcher",
+      "source_selectors": [
+        "/gsd-ui-researcher.md"
+      ],
+      "variant_ids": [
+        "model-gsd-ui-researcher"
+      ],
+      "dispositions": {
+        "delegated": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-productshape-explore-product",
+      "audit_lines": "229-252",
+      "claim": "ProductShape explore-product",
+      "source_selectors": [
+        "/skills/explore-product/",
+        "/commands/explore-product"
+      ],
+      "variant_ids": [
+        "model-productshape-exploration-heuristics",
+        "productshape-explore-product"
+      ],
+      "dispositions": {
+        "conditional_method": 2
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-productshape-define-product",
+      "audit_lines": "229-252",
+      "claim": "ProductShape define-product",
+      "source_selectors": [
+        "/skills/define-product/",
+        "/commands/define-product"
+      ],
+      "variant_ids": [
+        "model-productshape-authoring-order",
+        "productshape-define-product"
+      ],
+      "dispositions": {
+        "conditional_method": 2
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-productshape-refine-product",
+      "audit_lines": "229-252",
+      "claim": "ProductShape refine-product",
+      "source_selectors": [
+        "/skills/refine-product/",
+        "/commands/refine-product"
+      ],
+      "variant_ids": [
+        "model-productshape-host-adapter",
+        "model-productshape-question-writing",
+        "productshape-refine-product"
+      ],
+      "dispositions": {
+        "conditional_method": 3
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-productshape-recover-product",
+      "audit_lines": "229-252",
+      "claim": "ProductShape recover-product",
+      "source_selectors": [
+        "/skills/recover-product/",
+        "/commands/recover-product"
+      ],
+      "variant_ids": [
+        "model-productshape-artifact-extraction",
+        "model-productshape-completion-criteria",
+        "model-productshape-evidence-classification",
+        "model-productshape-evidence-sources",
+        "model-productshape-provenance-format",
+        "model-productshape-reconciliation",
+        "model-productshape-recovery-workflow",
+        "productshape-recover-product"
+      ],
+      "dispositions": {
+        "conditional_method": 8
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-productshape-audit-product-model",
+      "audit_lines": "229-252",
+      "claim": "ProductShape audit-product-model",
+      "source_selectors": [
+        "/skills/audit-product-model/",
+        "/commands/audit-product-model"
+      ],
+      "variant_ids": [
+        "model-productshape-diagnostic-codes",
+        "model-productshape-finding-classification",
+        "productshape-audit-product-model"
+      ],
+      "dispositions": {
+        "conditional_method": 3
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-productshape-analyze-product-change",
+      "audit_lines": "229-252",
+      "claim": "ProductShape analyze-product-change",
+      "source_selectors": [
+        "/skills/analyze-product-change/",
+        "/commands/analyze-product-change"
+      ],
+      "variant_ids": [
+        "model-productshape-change-template-guide",
+        "model-productshape-operations-checklist",
+        "productshape-analyze-product-change"
+      ],
+      "dispositions": {
+        "delegated": 3
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-productshape-bind-consumers",
+      "audit_lines": "229-252",
+      "claim": "ProductShape bind-consumers",
+      "source_selectors": [
+        "/skills/bind-consumers/",
+        "/commands/bind-consumers"
+      ],
+      "variant_ids": [
+        "model-productshape-openspec",
+        "model-productshape-speckit",
+        "productshape-bind-consumers"
+      ],
+      "dispositions": {
+        "delegated": 3
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-productshape-templates",
+      "audit_lines": "250",
+      "claim": "Actor, journey, use-case, rule, behavior, term, context, functional, quality and constraint semantics",
+      "source_selectors": [
+        "/@prodshape/cli/assets/templates/"
+      ],
+      "variant_ids": [
+        "productshape-template-actor",
+        "productshape-template-bounded-context",
+        "productshape-template-business-rule",
+        "productshape-template-constraint",
+        "productshape-template-domain-term",
+        "productshape-template-functional-requirement",
+        "productshape-template-journey",
+        "productshape-template-product-change",
+        "productshape-template-quality-requirement",
+        "productshape-template-structured-behaviour",
+        "productshape-template-use-case"
+      ],
+      "dispositions": {
+        "conditional_method": 11
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-productshape-hosts",
+      "audit_lines": "196-197; 235; 252",
+      "claim": "pdac-product host adapters and activation distinction",
+      "source_selectors": [
+        "/extensions/pdac-product/",
+        "/openspec/schemas/",
+        "/assets/schemas/"
+      ],
+      "variant_ids": [],
+      "dispositions": {},
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-speckit-website_reconstruct-specify",
+      "audit_lines": "203-227",
+      "claim": "Spec Kit website_reconstruct specify and its project policy",
+      "source_selectors": [
+        "/website_reconstruct/.agents/skills/speckit-specify/",
+        "/website_reconstruct/.cursor/skills/speckit-specify/",
+        "/website_reconstruct/.clinerules/workflows/speckit.specify",
+        "/website_reconstruct/.opencode/commands/speckit.specify"
+      ],
+      "variant_ids": [
+        "completion-speckit-hooks-lifecycle",
+        "completion-speckit-known-metrics",
+        "speckit-video_downloader_app-specify",
+        "speckit-website_reconstruct-specify",
+        "speckit-yt_transcriber-specify"
+      ],
+      "dispositions": {
+        "conditional_method": 4,
+        "excluded_with_reason": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-speckit-website_reconstruct-clarify",
+      "audit_lines": "203-227",
+      "claim": "Spec Kit website_reconstruct clarify and its project policy",
+      "source_selectors": [
+        "/website_reconstruct/.agents/skills/speckit-clarify/",
+        "/website_reconstruct/.cursor/skills/speckit-clarify/",
+        "/website_reconstruct/.clinerules/workflows/speckit.clarify",
+        "/website_reconstruct/.opencode/commands/speckit.clarify"
+      ],
+      "variant_ids": [
+        "completion-speckit-ambiguity-taxonomy",
+        "completion-speckit-answer-propagation",
+        "completion-speckit-question-wording",
+        "speckit-video_downloader_app-clarify",
+        "speckit-website_reconstruct-clarify",
+        "speckit-yt_transcriber-clarify"
+      ],
+      "dispositions": {
+        "conditional_method": 5,
+        "integrated": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-speckit-website_reconstruct-checklist",
+      "audit_lines": "203-227",
+      "claim": "Spec Kit website_reconstruct checklist and its project policy",
+      "source_selectors": [
+        "/website_reconstruct/.agents/skills/speckit-checklist/",
+        "/website_reconstruct/.cursor/skills/speckit-checklist/",
+        "/website_reconstruct/.clinerules/workflows/speckit.checklist",
+        "/website_reconstruct/.opencode/commands/speckit.checklist"
+      ],
+      "variant_ids": [
+        "completion-speckit-reviewer-ownership",
+        "speckit-video_downloader_app-checklist",
+        "speckit-website_reconstruct-checklist"
+      ],
+      "dispositions": {
+        "conditional_method": 3
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-speckit-website_reconstruct-analyze",
+      "audit_lines": "203-227",
+      "claim": "Spec Kit website_reconstruct analyze and its project policy",
+      "source_selectors": [
+        "/website_reconstruct/.agents/skills/speckit-analyze/",
+        "/website_reconstruct/.cursor/skills/speckit-analyze/",
+        "/website_reconstruct/.clinerules/workflows/speckit.analyze",
+        "/website_reconstruct/.opencode/commands/speckit.analyze"
+      ],
+      "variant_ids": [
+        "speckit-video_downloader_app-analyze",
+        "speckit-website_reconstruct-analyze"
+      ],
+      "dispositions": {
+        "delegated": 2
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-speckit-website_reconstruct-converge",
+      "audit_lines": "203-227",
+      "claim": "Spec Kit website_reconstruct converge and its project policy",
+      "source_selectors": [
+        "/website_reconstruct/.agents/skills/speckit-converge/",
+        "/website_reconstruct/.cursor/skills/speckit-converge/",
+        "/website_reconstruct/.clinerules/workflows/speckit.converge",
+        "/website_reconstruct/.opencode/commands/speckit.converge"
+      ],
+      "variant_ids": [
+        "speckit-video_downloader_app-converge",
+        "speckit-website_reconstruct-converge"
+      ],
+      "dispositions": {
+        "specialist_only": 2
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-speckit-video_downloader_app-specify",
+      "audit_lines": "203-227",
+      "claim": "Spec Kit video_downloader_app specify and its project policy",
+      "source_selectors": [
+        "/video_downloader_app/.agents/skills/speckit-specify/",
+        "/video_downloader_app/.cursor/skills/speckit-specify/",
+        "/video_downloader_app/.clinerules/workflows/speckit.specify",
+        "/video_downloader_app/.opencode/commands/speckit.specify"
+      ],
+      "variant_ids": [],
+      "dispositions": {},
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-speckit-video_downloader_app-clarify",
+      "audit_lines": "203-227",
+      "claim": "Spec Kit video_downloader_app clarify and its project policy",
+      "source_selectors": [
+        "/video_downloader_app/.agents/skills/speckit-clarify/",
+        "/video_downloader_app/.cursor/skills/speckit-clarify/",
+        "/video_downloader_app/.clinerules/workflows/speckit.clarify",
+        "/video_downloader_app/.opencode/commands/speckit.clarify"
+      ],
+      "variant_ids": [],
+      "dispositions": {},
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-speckit-video_downloader_app-checklist",
+      "audit_lines": "203-227",
+      "claim": "Spec Kit video_downloader_app checklist and its project policy",
+      "source_selectors": [
+        "/video_downloader_app/.agents/skills/speckit-checklist/",
+        "/video_downloader_app/.cursor/skills/speckit-checklist/",
+        "/video_downloader_app/.clinerules/workflows/speckit.checklist",
+        "/video_downloader_app/.opencode/commands/speckit.checklist"
+      ],
+      "variant_ids": [],
+      "dispositions": {},
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-speckit-video_downloader_app-analyze",
+      "audit_lines": "203-227",
+      "claim": "Spec Kit video_downloader_app analyze and its project policy",
+      "source_selectors": [
+        "/video_downloader_app/.agents/skills/speckit-analyze/",
+        "/video_downloader_app/.cursor/skills/speckit-analyze/",
+        "/video_downloader_app/.clinerules/workflows/speckit.analyze",
+        "/video_downloader_app/.opencode/commands/speckit.analyze"
+      ],
+      "variant_ids": [],
+      "dispositions": {},
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-speckit-video_downloader_app-converge",
+      "audit_lines": "203-227",
+      "claim": "Spec Kit video_downloader_app converge and its project policy",
+      "source_selectors": [
+        "/video_downloader_app/.agents/skills/speckit-converge/",
+        "/video_downloader_app/.cursor/skills/speckit-converge/",
+        "/video_downloader_app/.clinerules/workflows/speckit.converge",
+        "/video_downloader_app/.opencode/commands/speckit.converge"
+      ],
+      "variant_ids": [],
+      "dispositions": {},
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-speckit-yt_extension-yt_transcriber-specify",
+      "audit_lines": "203-227",
+      "claim": "Spec Kit yt_extension/yt_transcriber specify and its project policy",
+      "source_selectors": [
+        "/yt_extension/yt_transcriber/.agents/skills/speckit-specify/",
+        "/yt_extension/yt_transcriber/.cursor/skills/speckit-specify/",
+        "/yt_extension/yt_transcriber/.clinerules/workflows/speckit.specify",
+        "/yt_extension/yt_transcriber/.opencode/commands/speckit.specify"
+      ],
+      "variant_ids": [],
+      "dispositions": {},
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-speckit-yt_extension-yt_transcriber-clarify",
+      "audit_lines": "203-227",
+      "claim": "Spec Kit yt_extension/yt_transcriber clarify and its project policy",
+      "source_selectors": [
+        "/yt_extension/yt_transcriber/.agents/skills/speckit-clarify/",
+        "/yt_extension/yt_transcriber/.cursor/skills/speckit-clarify/",
+        "/yt_extension/yt_transcriber/.clinerules/workflows/speckit.clarify",
+        "/yt_extension/yt_transcriber/.opencode/commands/speckit.clarify"
+      ],
+      "variant_ids": [],
+      "dispositions": {},
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-speckit-yt_extension-yt_transcriber-checklist",
+      "audit_lines": "203-227",
+      "claim": "Spec Kit yt_extension/yt_transcriber checklist and its project policy",
+      "source_selectors": [
+        "/yt_extension/yt_transcriber/.agents/skills/speckit-checklist/",
+        "/yt_extension/yt_transcriber/.cursor/skills/speckit-checklist/",
+        "/yt_extension/yt_transcriber/.clinerules/workflows/speckit.checklist",
+        "/yt_extension/yt_transcriber/.opencode/commands/speckit.checklist"
+      ],
+      "variant_ids": [
+        "speckit-yt_transcriber-checklist"
+      ],
+      "dispositions": {
+        "conditional_method": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-speckit-yt_extension-yt_transcriber-analyze",
+      "audit_lines": "203-227",
+      "claim": "Spec Kit yt_extension/yt_transcriber analyze and its project policy",
+      "source_selectors": [
+        "/yt_extension/yt_transcriber/.agents/skills/speckit-analyze/",
+        "/yt_extension/yt_transcriber/.cursor/skills/speckit-analyze/",
+        "/yt_extension/yt_transcriber/.clinerules/workflows/speckit.analyze",
+        "/yt_extension/yt_transcriber/.opencode/commands/speckit.analyze"
+      ],
+      "variant_ids": [
+        "speckit-yt_transcriber-analyze"
+      ],
+      "dispositions": {
+        "delegated": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-speckit-yt_extension-yt_transcriber-converge",
+      "audit_lines": "203-227",
+      "claim": "Spec Kit yt_extension/yt_transcriber converge and its project policy",
+      "source_selectors": [
+        "/yt_extension/yt_transcriber/.agents/skills/speckit-converge/",
+        "/yt_extension/yt_transcriber/.cursor/skills/speckit-converge/",
+        "/yt_extension/yt_transcriber/.clinerules/workflows/speckit.converge",
+        "/yt_extension/yt_transcriber/.opencode/commands/speckit.converge"
+      ],
+      "variant_ids": [
+        "speckit-yt_transcriber-converge"
+      ],
+      "dispositions": {
+        "specialist_only": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-bug-assessment",
+      "audit_lines": "225-227",
+      "claim": "Bug current/expected delta and evidence",
+      "source_selectors": [
+        "/speckit-bug-assess/"
+      ],
+      "variant_ids": [
+        "speckit-video_downloader_app-bug-assess",
+        "bug-current-expected"
+      ],
+      "dispositions": {
+        "conditional_method": 2
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-shared-interview-me",
+      "audit_lines": "66-67; 334-346",
+      "claim": "Shared method interview-me",
+      "source_selectors": [
+        "/skills/interview-me/",
+        "/.agents-skills/interview-me/"
+      ],
+      "variant_ids": [
+        "shared-interview-me",
+        "method-addy-interview-stagnation",
+        "method-addy-noninteractive",
+        "method-addy-strict-confirm"
+      ],
+      "dispositions": {
+        "conditional_method": 3,
+        "integrated": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-shared-idea-refine",
+      "audit_lines": "66-67; 334-346",
+      "claim": "Shared method idea-refine",
+      "source_selectors": [
+        "/skills/idea-refine/",
+        "/.agents-skills/idea-refine/"
+      ],
+      "variant_ids": [
+        "shared-idea-refine",
+        "method-addy-analogy",
+        "method-addy-assumption-tiers",
+        "method-addy-constraint-thought-experiment",
+        "method-addy-first-principles",
+        "method-addy-hmw",
+        "method-addy-idea-full-lifecycle",
+        "method-addy-input-output-diagnosis",
+        "method-addy-jtbd",
+        "method-addy-premortem",
+        "method-addy-scamper",
+        "method-addy-value-feasibility-difference"
+      ],
+      "dispositions": {
+        "conditional_method": 9,
+        "specialist_only": 3
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-shared-spec-driven-development",
+      "audit_lines": "66-67; 334-346",
+      "claim": "Shared method spec-driven-development",
+      "source_selectors": [
+        "/skills/spec-driven-development/",
+        "/.agents-skills/spec-driven-development/"
+      ],
+      "variant_ids": [
+        "shared-spec-driven-development",
+        "method-addy-capability-map",
+        "method-addy-silence-not-acceptance",
+        "cursor-spec-driven-development-policy"
+      ],
+      "dispositions": {
+        "conditional_method": 1,
+        "delegated": 1,
+        "excluded_with_reason": 1,
+        "integrated": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-shared-constraint-driven-development",
+      "audit_lines": "66-67; 334-346",
+      "claim": "Shared method constraint-driven-development",
+      "source_selectors": [
+        "/skills/constraint-driven-development/",
+        "/.agents-skills/constraint-driven-development/"
+      ],
+      "variant_ids": [
+        "shared-constraint-driven-development",
+        "method-addy-enforcement-lifecycle",
+        "method-addy-floor-guard",
+        "method-addy-quality-ratchet",
+        "linked-27b3cdbed47c6714",
+        "linked-9e93b25ece07709a"
+      ],
+      "dispositions": {
+        "conditional_method": 2,
+        "specialist_only": 4
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-shared-context-engineering",
+      "audit_lines": "66-67; 334-346",
+      "claim": "Shared method context-engineering",
+      "source_selectors": [
+        "/skills/context-engineering/",
+        "/.agents-skills/context-engineering/"
+      ],
+      "variant_ids": [
+        "shared-context-engineering"
+      ],
+      "dispositions": {
+        "conditional_method": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-shared-source-driven-development",
+      "audit_lines": "66-67; 334-346",
+      "claim": "Shared method source-driven-development",
+      "source_selectors": [
+        "/skills/source-driven-development/",
+        "/.agents-skills/source-driven-development/"
+      ],
+      "variant_ids": [
+        "shared-source-driven-development"
+      ],
+      "dispositions": {
+        "delegated": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-shared-doubt-driven-development",
+      "audit_lines": "66-67; 334-346",
+      "claim": "Shared method doubt-driven-development",
+      "source_selectors": [
+        "/skills/doubt-driven-development/",
+        "/.agents-skills/doubt-driven-development/"
+      ],
+      "variant_ids": [
+        "shared-doubt-driven-development",
+        "method-addy-crossmodel-authorization",
+        "method-addy-doubt-unit"
+      ],
+      "dispositions": {
+        "conditional_method": 2,
+        "specialist_only": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-shared-planning-and-task-breakdown",
+      "audit_lines": "66-67; 334-346",
+      "claim": "Shared method planning-and-task-breakdown",
+      "source_selectors": [
+        "/skills/planning-and-task-breakdown/",
+        "/.agents-skills/planning-and-task-breakdown/"
+      ],
+      "variant_ids": [
+        "shared-planning-and-task-breakdown"
+      ],
+      "dispositions": {
+        "specialist_only": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-shared-sharpen",
+      "audit_lines": "66-67; 334-346",
+      "claim": "Shared method sharpen",
+      "source_selectors": [
+        "/skills/sharpen/",
+        "/.agents-skills/sharpen/"
+      ],
+      "variant_ids": [
+        "shared-sharpen"
+      ],
+      "dispositions": {
+        "conditional_method": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-shared-in-your-own-words",
+      "audit_lines": "66-67; 334-346",
+      "claim": "Shared method in-your-own-words",
+      "source_selectors": [
+        "/skills/in-your-own-words/",
+        "/.agents-skills/in-your-own-words/"
+      ],
+      "variant_ids": [
+        "shared-in-your-own-words"
+      ],
+      "dispositions": {
+        "conditional_method": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-shared-bro",
+      "audit_lines": "66-67; 334-346",
+      "claim": "Shared method bro",
+      "source_selectors": [
+        "/skills/bro/",
+        "/.agents-skills/bro/"
+      ],
+      "variant_ids": [
+        "shared-bro"
+      ],
+      "dispositions": {
+        "conditional_method": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-shared-how",
+      "audit_lines": "66-67; 334-346",
+      "claim": "Shared method how",
+      "source_selectors": [
+        "/skills/how/",
+        "/.agents-skills/how/"
+      ],
+      "variant_ids": [
+        "method-pstack-how-angles",
+        "method-pstack-how-reconcile",
+        "shared-how"
+      ],
+      "dispositions": {
+        "delegated": 3
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-shared-why",
+      "audit_lines": "66-67; 334-346",
+      "claim": "Shared method why",
+      "source_selectors": [
+        "/skills/why/",
+        "/.agents-skills/why/"
+      ],
+      "variant_ids": [
+        "method-pstack-analytics-evidence",
+        "method-pstack-chat-context",
+        "method-pstack-confidence-synthesis",
+        "method-pstack-doc-context",
+        "method-pstack-error-evidence",
+        "method-pstack-history-renames",
+        "method-pstack-incident-leads",
+        "method-pstack-investigator",
+        "method-pstack-preserve-change",
+        "method-pstack-runtime-evidence",
+        "method-pstack-source-categories",
+        "method-pstack-ticket-context",
+        "pstack-evidence-tiers",
+        "shared-why"
+      ],
+      "dispositions": {
+        "conditional_method": 7,
+        "delegated": 7
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-shared-recall",
+      "audit_lines": "66-67; 334-346",
+      "claim": "Shared method recall",
+      "source_selectors": [
+        "/skills/recall/",
+        "/.agents-skills/recall/"
+      ],
+      "variant_ids": [
+        "method-pstack-recall-capsule",
+        "shared-recall"
+      ],
+      "dispositions": {
+        "conditional_method": 2
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-shared-architect",
+      "audit_lines": "66-67; 334-346",
+      "claim": "Shared method architect",
+      "source_selectors": [
+        "/skills/architect/",
+        "/.agents-skills/architect/"
+      ],
+      "variant_ids": [
+        "method-pstack-caller-first",
+        "method-pstack-design-redflags",
+        "method-pstack-tradeoff-rationale",
+        "linked-28aaa54a50cb3491",
+        "shared-architect"
+      ],
+      "dispositions": {
+        "conditional_method": 1,
+        "specialist_only": 4
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-shared-interrogate",
+      "audit_lines": "66-67; 334-346",
+      "claim": "Shared method interrogate",
+      "source_selectors": [
+        "/skills/interrogate/",
+        "/.agents-skills/interrogate/"
+      ],
+      "variant_ids": [
+        "method-pstack-intent-fixed-review",
+        "method-pstack-lead-dispositions",
+        "method-pstack-review-lenses",
+        "method-pstack-review-no-autofix",
+        "method-pstack-structural-quality",
+        "shared-interrogate"
+      ],
+      "dispositions": {
+        "conditional_method": 1,
+        "specialist_only": 5
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-pstack-principles",
+      "audit_lines": "67",
+      "claim": "Distinct pstack supporting principles",
+      "source_selectors": [
+        "/principle-"
+      ],
+      "variant_ids": [
+        "pstack-principle-attack-the-premise",
+        "pstack-principle-boundary-discipline",
+        "pstack-principle-build-the-lever",
+        "pstack-principle-encode-lessons-in-structure",
+        "pstack-principle-exhaust-the-design-space",
+        "pstack-principle-experience-first",
+        "pstack-principle-explain-the-number",
+        "pstack-principle-fix-root-causes",
+        "pstack-principle-foundational-thinking",
+        "pstack-principle-guard-the-context-window",
+        "pstack-principle-laziness-protocol",
+        "pstack-principle-make-operations-idempotent",
+        "pstack-principle-migrate-callers-then-delete-legacy-apis",
+        "pstack-principle-minimize-reader-load",
+        "pstack-principle-model-the-domain",
+        "pstack-principle-never-block-on-the-human",
+        "pstack-principle-outcome-oriented-execution",
+        "pstack-principle-prove-it-works",
+        "pstack-principle-redesign-from-first-principles",
+        "pstack-principle-separate-before-serializing-shared-state",
+        "pstack-principle-sequence-verifiable-units",
+        "pstack-principle-subtract-before-you-add",
+        "pstack-principle-test-behavior-not-implementation",
+        "pstack-principle-type-system-discipline"
+      ],
+      "dispositions": {
+        "conditional_method": 13,
+        "delegated": 2,
+        "integrated": 2,
+        "specialist_only": 7
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-context-collection",
+      "audit_lines": "68",
+      "claim": "Context collection and nested methods remain conditional or specialist",
+      "source_selectors": [
+        "/context-engineering-collection/"
+      ],
+      "variant_ids": [
+        "specialist-collection-advanced-evaluation",
+        "specialist-collection-bdi-mental-states",
+        "specialist-collection-context-compression",
+        "specialist-collection-context-degradation",
+        "specialist-collection-context-fundamentals",
+        "specialist-collection-context-optimization",
+        "specialist-collection-evaluation",
+        "specialist-collection-example-book-sft-pipeline",
+        "specialist-collection-example-digital-brain-skill",
+        "specialist-collection-filesystem-context",
+        "specialist-collection-harness-engineering",
+        "specialist-collection-hosted-agents",
+        "specialist-collection-latent-briefing",
+        "specialist-collection-long-horizon-prompting",
+        "specialist-collection-memory-systems",
+        "specialist-collection-multi-agent-patterns",
+        "specialist-collection-project-development",
+        "specialist-collection-ref-advanced-evaluation-bias-mitigation",
+        "specialist-collection-ref-advanced-evaluation-evaluation-pipeline",
+        "specialist-collection-ref-advanced-evaluation-implementation-patterns",
+        "specialist-collection-ref-advanced-evaluation-metrics-guide",
+        "specialist-collection-ref-bdi-mental-states-bdi-ontology-core",
+        "specialist-collection-ref-bdi-mental-states-framework-integration",
+        "specialist-collection-ref-bdi-mental-states-rdf-examples",
+        "specialist-collection-ref-bdi-mental-states-sparql-competency",
+        "specialist-collection-ref-context-compression-evaluation-framework",
+        "specialist-collection-ref-context-degradation-patterns",
+        "specialist-collection-ref-context-fundamentals-context-components",
+        "specialist-collection-ref-context-optimization-optimization_techniques",
+        "specialist-collection-ref-evaluation-metrics",
+        "specialist-collection-ref-filesystem-context-implementation-patterns",
+        "specialist-collection-ref-hosted-agents-infrastructure-patterns",
+        "specialist-collection-ref-latent-briefing-attention-matching-formulation",
+        "specialist-collection-ref-long-horizon-prompting-cdc-prompt-annotated",
+        "specialist-collection-ref-long-horizon-prompting-research-evidence",
+        "specialist-collection-ref-long-horizon-prompting-task-brief-template",
+        "specialist-collection-ref-long-horizon-prompting-vendor-guidance",
+        "specialist-collection-ref-memory-systems-implementation",
+        "specialist-collection-ref-multi-agent-patterns-frameworks",
+        "specialist-collection-ref-project-development-case-studies",
+        "specialist-collection-ref-project-development-pipeline-patterns",
+        "specialist-collection-ref-self-improvement-loops-loop-design-evidence",
+        "specialist-collection-ref-self-managed-context-evidence",
+        "specialist-collection-ref-self-managed-context-harness-protocol",
+        "specialist-collection-ref-tool-design-architectural_reduction",
+        "specialist-collection-ref-tool-design-best_practices",
+        "specialist-collection-self-improvement-loops",
+        "specialist-collection-self-managed-context",
+        "specialist-collection-tool-design",
+        "specialist-context-collection"
+      ],
+      "dispositions": {
+        "conditional_method": 2,
+        "specialist_only": 48
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-eval-method-generate-synthetic-data",
+      "audit_lines": "69",
+      "claim": "Scenario/evaluation companion generate-synthetic-data",
+      "source_selectors": [
+        "/generate-synthetic-data/skill.md"
+      ],
+      "variant_ids": [
+        "synthetic-dimensions"
+      ],
+      "dispositions": {
+        "conditional_method": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-eval-method-evals-start",
+      "audit_lines": "69",
+      "claim": "Scenario/evaluation companion evals-start",
+      "source_selectors": [
+        "/evals-start/skill.md"
+      ],
+      "variant_ids": [],
+      "dispositions": {},
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-eval-method-eval-audit",
+      "audit_lines": "69",
+      "claim": "Scenario/evaluation companion eval-audit",
+      "source_selectors": [
+        "/eval-audit/skill.md"
+      ],
+      "variant_ids": [],
+      "dispositions": {},
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-eval-method-evaluate-rag",
+      "audit_lines": "69",
+      "claim": "Scenario/evaluation companion evaluate-rag",
+      "source_selectors": [
+        "/evaluate-rag/skill.md"
+      ],
+      "variant_ids": [],
+      "dispositions": {},
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-eval-method-validate-evaluator",
+      "audit_lines": "69",
+      "claim": "Scenario/evaluation companion validate-evaluator",
+      "source_selectors": [
+        "/validate-evaluator/skill.md"
+      ],
+      "variant_ids": [],
+      "dispositions": {},
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-eval-method-write-code-eval",
+      "audit_lines": "69",
+      "claim": "Scenario/evaluation companion write-code-eval",
+      "source_selectors": [
+        "/write-code-eval/skill.md"
+      ],
+      "variant_ids": [],
+      "dispositions": {},
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-codegraph",
+      "audit_lines": "70; 289",
+      "claim": "Graph-backed bounded evidence and freshness boundary",
+      "source_selectors": [
+        "/explore-codebase/",
+        "/build-graph/",
+        "/code-review-graph/"
+      ],
+      "variant_ids": [],
+      "dispositions": {},
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-qodo",
+      "audit_lines": "71",
+      "claim": "Qodo source knowledge and specialist companions",
+      "source_selectors": [
+        "/qodo-"
+      ],
+      "variant_ids": [],
+      "dispositions": {},
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-superpowers-6.3.0",
+      "audit_lines": "174-188",
+      "claim": "Superpowers 6.3.0",
+      "source_selectors": [
+        "/openai-curated/superpowers/1dc19589/"
+      ],
+      "variant_ids": [
+        "specialist-visual-companion-6-3-0",
+        "superpowers-6-3-discovery"
+      ],
+      "dispositions": {
+        "conditional_method": 1,
+        "specialist_only": 1
+      },
+      "accounting_note": "Exposure in the old audit is historical; current source review distinguishes cached content and the current catalog.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-superpowers-6.4.2",
+      "audit_lines": "174-188",
+      "claim": "Superpowers 6.4.2",
+      "source_selectors": [
+        "/openai-curated-remote/superpowers/6.4.2/"
+      ],
+      "variant_ids": [
+        "specialist-visual-companion-6-4-2",
+        "superpowers-6-4-correction"
+      ],
+      "dispositions": {
+        "integrated": 1,
+        "specialist_only": 1
+      },
+      "accounting_note": "Exposure in the old audit is historical; current source review distinguishes cached content and the current catalog.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-uiux-ui-ux-designer",
+      "audit_lines": "180; 188",
+      "claim": "UIUXDesigner ui-ux-designer",
+      "source_selectors": [
+        "/uiuxdesigner/1.1.0/skills/ui-ux-designer/"
+      ],
+      "variant_ids": [
+        "specialist-uiux-affiliate-footer",
+        "uiux-ui-ux-designer"
+      ],
+      "dispositions": {
+        "conditional_method": 1,
+        "excluded_with_reason": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-uiux-ux-research-plan",
+      "audit_lines": "180; 188",
+      "claim": "UIUXDesigner ux-research-plan",
+      "source_selectors": [
+        "/uiuxdesigner/1.1.0/skills/ux-research-plan/"
+      ],
+      "variant_ids": [
+        "uiux-ux-research-plan"
+      ],
+      "dispositions": {
+        "conditional_method": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-uiux-personas-journey-maps",
+      "audit_lines": "180; 188",
+      "claim": "UIUXDesigner personas-journey-maps",
+      "source_selectors": [
+        "/uiuxdesigner/1.1.0/skills/personas-journey-maps/"
+      ],
+      "variant_ids": [
+        "uiux-personas-journey-maps"
+      ],
+      "dispositions": {
+        "conditional_method": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-uiux-user-flows",
+      "audit_lines": "180; 188",
+      "claim": "UIUXDesigner user-flows",
+      "source_selectors": [
+        "/uiuxdesigner/1.1.0/skills/user-flows/"
+      ],
+      "variant_ids": [
+        "uiux-user-flows"
+      ],
+      "dispositions": {
+        "conditional_method": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-uiux-information-architecture",
+      "audit_lines": "180; 188",
+      "claim": "UIUXDesigner information-architecture",
+      "source_selectors": [
+        "/uiuxdesigner/1.1.0/skills/information-architecture/"
+      ],
+      "variant_ids": [
+        "specialist-uiux-information-architecture"
+      ],
+      "dispositions": {
+        "conditional_method": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-uiux-forms-onboarding-ux",
+      "audit_lines": "180; 188",
+      "claim": "UIUXDesigner forms-onboarding-ux",
+      "source_selectors": [
+        "/uiuxdesigner/1.1.0/skills/forms-onboarding-ux/"
+      ],
+      "variant_ids": [
+        "uiux-forms-onboarding-ux"
+      ],
+      "dispositions": {
+        "conditional_method": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-uiux-usability-testing",
+      "audit_lines": "180; 188",
+      "claim": "UIUXDesigner usability-testing",
+      "source_selectors": [
+        "/uiuxdesigner/1.1.0/skills/usability-testing/"
+      ],
+      "variant_ids": [
+        "specialist-uiux-usability-testing"
+      ],
+      "dispositions": {
+        "specialist_only": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-uiux-ux-audit-critique",
+      "audit_lines": "180; 188",
+      "claim": "UIUXDesigner ux-audit-critique",
+      "source_selectors": [
+        "/uiuxdesigner/1.1.0/skills/ux-audit-critique/"
+      ],
+      "variant_ids": [
+        "specialist-uiux-ux-audit-critique"
+      ],
+      "dispositions": {
+        "specialist_only": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-uiux-component-design",
+      "audit_lines": "180; 188",
+      "claim": "UIUXDesigner component-design",
+      "source_selectors": [
+        "/uiuxdesigner/1.1.0/skills/component-design/"
+      ],
+      "variant_ids": [
+        "uiux-component-design"
+      ],
+      "dispositions": {
+        "conditional_method": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-analytics-gather-business-context",
+      "audit_lines": "181; 380",
+      "claim": "Analytics gather-business-context",
+      "source_selectors": [
+        "/data-analytics/1.0.11/skills/gather-business-context/"
+      ],
+      "variant_ids": [
+        "analytics-authority"
+      ],
+      "dispositions": {
+        "integrated": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-analytics-product-business-analysis",
+      "audit_lines": "181; 380",
+      "claim": "Analytics product-business-analysis",
+      "source_selectors": [
+        "/data-analytics/1.0.11/skills/product-business-analysis/"
+      ],
+      "variant_ids": [
+        "analytics-product-business-analysis"
+      ],
+      "dispositions": {
+        "conditional_method": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-analytics-design-kpis",
+      "audit_lines": "181; 380",
+      "claim": "Analytics design-kpis",
+      "source_selectors": [
+        "/data-analytics/1.0.11/skills/design-kpis/"
+      ],
+      "variant_ids": [
+        "analytics-design-kpis"
+      ],
+      "dispositions": {
+        "conditional_method": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-analytics-create-data-context",
+      "audit_lines": "181; 380",
+      "claim": "Analytics create-data-context",
+      "source_selectors": [
+        "/data-analytics/1.0.11/skills/create-data-context/"
+      ],
+      "variant_ids": [
+        "analytics-create-data-context",
+        "linked-7cb66f32442f18dc",
+        "linked-bda94a6226838199",
+        "linked-f9a4f32f001b5903"
+      ],
+      "dispositions": {
+        "conditional_method": 2,
+        "specialist_only": 2
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-security",
+      "audit_lines": "182",
+      "claim": "Security boundaries and accepted-risk ownership",
+      "source_selectors": [
+        "/define-security-policy/"
+      ],
+      "variant_ids": [
+        "security-boundaries"
+      ],
+      "dispositions": {
+        "conditional_method": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-sales-quotes",
+      "audit_lines": "183",
+      "claim": "Customer quote source and speaker verification",
+      "source_selectors": [
+        "/find-customer-quotes/"
+      ],
+      "variant_ids": [
+        "linked-dd57826a2f3cbf05",
+        "sales-quote-provenance"
+      ],
+      "dispositions": {
+        "conditional_method": 2
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-sales-owners",
+      "audit_lines": "183",
+      "claim": "Human knowledge owner and source discovery",
+      "source_selectors": [
+        "/find-key-internal-sources/"
+      ],
+      "variant_ids": [
+        "linked-84503e5ff2c2caa3",
+        "linked-d4cacab7bbbdd3ac",
+        "sales-source-owner"
+      ],
+      "dispositions": {
+        "conditional_method": 2,
+        "integrated": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-frontend",
+      "audit_lines": "184",
+      "claim": "Historical frontend builder and newer website-builder",
+      "source_selectors": [
+        "/frontend-app-builder/",
+        "/website-builder/"
+      ],
+      "variant_ids": [
+        "website-builder-2.2.1",
+        "specialist-frontend-app-builder"
+      ],
+      "dispositions": {
+        "specialist_only": 2
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-control-loop",
+      "audit_lines": "74",
+      "claim": "Human/operator control-loop intake",
+      "source_selectors": [
+        "/design-control-loop/"
+      ],
+      "variant_ids": [
+        "specialist-control-ref-agent-iteration",
+        "specialist-control-ref-agent-runner-templates",
+        "specialist-control-ref-control-loop-taxonomy",
+        "specialist-control-ref-example-control-loop",
+        "specialist-control-ref-example-skill",
+        "specialist-control-ref-memory-template",
+        "specialist-control-ref-prompt-template",
+        "specialist-control-ref-response-template",
+        "specialist-control-ref-skill-template",
+        "specialist-control-ref-workflow-template",
+        "control-loop"
+      ],
+      "dispositions": {
+        "conditional_method": 2,
+        "specialist_only": 9
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-reconstruction",
+      "audit_lines": "254-260",
+      "claim": "Shared/project reconstruction evidence and coverage",
+      "source_selectors": [
+        "/reference-reconstruction/"
+      ],
+      "variant_ids": [
+        "linked-17d818fcfaddcc8d",
+        "linked-19357cd4aa09a751",
+        "linked-2528f89dd2fd860a",
+        "linked-3249ad56262e5259",
+        "linked-42328cba10f74de6",
+        "linked-54229a39480983d7",
+        "linked-5e13e5f5c76cea19",
+        "linked-5f58e6044510663a",
+        "linked-6d2b2b33ba352b8c",
+        "linked-80e65839a00e2ce5",
+        "linked-9b677c2352915f35",
+        "linked-c6987514b53b1f6e",
+        "linked-de181875438ca9e4",
+        "linked-f5ffa6e28a8b0fda",
+        "linked-fea8b8f0115f03da",
+        "reconstruction"
+      ],
+      "dispositions": {
+        "conditional_method": 7,
+        "delegated": 1,
+        "specialist_only": 8
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-rea",
+      "audit_lines": "285",
+      "claim": "REA artifact/runtime provenance",
+      "source_selectors": [
+        "/reverse-engineer-anything/",
+        "/rea/package/"
+      ],
+      "variant_ids": [
+        "linked-07c70064638233dc",
+        "linked-78d7b5e6cd60bfec",
+        "linked-8cd253cf59255b57",
+        "linked-c22c3f6000fe3ddd",
+        "linked-fbe27549204a0873",
+        "linked-ff7931f34ff53e9f",
+        "rea-provenance"
+      ],
+      "dispositions": {
+        "conditional_method": 2,
+        "delegated": 3,
+        "specialist_only": 2
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-cursor-automate",
+      "audit_lines": "267; 277",
+      "claim": "Cursor trigger/action/outcome and discovery before questions",
+      "source_selectors": [
+        "/skills-cursor/automate/"
+      ],
+      "variant_ids": [
+        "cursor-automate"
+      ],
+      "dispositions": {
+        "conditional_method": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-cursor-goal",
+      "audit_lines": "267",
+      "claim": "Cursor goal lifecycle",
+      "source_selectors": [
+        "/skills-cursor/goal/"
+      ],
+      "variant_ids": [
+        "cursor-native-goal"
+      ],
+      "dispositions": {
+        "specialist_only": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-cursor-rule",
+      "audit_lines": "267",
+      "claim": "Cursor rule authoring",
+      "source_selectors": [
+        "/skills-cursor/create-rule/"
+      ],
+      "variant_ids": [
+        "cursor-native-create-rule"
+      ],
+      "dispositions": {
+        "specialist_only": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-cursor-skill",
+      "audit_lines": "267",
+      "claim": "Cursor skill authoring",
+      "source_selectors": [
+        "/skills-cursor/create-skill/"
+      ],
+      "variant_ids": [
+        "cursor-native-create-skill"
+      ],
+      "dispositions": {
+        "specialist_only": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-cursor-figma",
+      "audit_lines": "269; 279",
+      "claim": "Hidden Figma section-gap and bounded context workflow",
+      "source_selectors": [
+        "/generate-project-plan/"
+      ],
+      "variant_ids": [
+        "cursor-figma-bounded-context",
+        "linked-573ad6296e1736f6",
+        "linked-5f51a5fdd3e35b4e",
+        "linked-654e2db2196eba50",
+        "linked-762d565e63079853",
+        "linked-8a3c5185c90c1f9e",
+        "linked-8d3b92027c0cc471",
+        "linked-8dde74b644fc5486",
+        "linked-95e579632e94bddc",
+        "linked-9bb2a24e63714dd1",
+        "linked-a75637135c3b30fd",
+        "linked-d25d99b50ca429b9",
+        "linked-ede014c17584a956",
+        "linked-f24efe039d4d487e",
+        "linked-f862ed759231c707"
+      ],
+      "dispositions": {
+        "conditional_method": 2,
+        "specialist_only": 13
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-cline",
+      "audit_lines": "270",
+      "claim": "Cline Plan/Act interface; no inferred full interview method",
+      "source_selectors": [
+        "/node_modules/cline/"
+      ],
+      "variant_ids": [
+        "cline-native-plan-act"
+      ],
+      "dispositions": {
+        "blocked_unverified": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-opencode",
+      "audit_lines": "272-273",
+      "claim": "Opaque OpenCode interview semantics remain unverified",
+      "source_selectors": [
+        "/node_modules/opencode-ai/"
+      ],
+      "variant_ids": [
+        "opencode-native-interview"
+      ],
+      "dispositions": {
+        "blocked_unverified": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-serena",
+      "audit_lines": "286",
+      "claim": "Focused source-symbol facts",
+      "source_selectors": [
+        "/serena/"
+      ],
+      "variant_ids": [
+        "serena-fact-route"
+      ],
+      "dispositions": {
+        "blocked_unverified": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-repomix",
+      "audit_lines": "287",
+      "claim": "Repository collection boundary",
+      "source_selectors": [
+        "/repomix/"
+      ],
+      "variant_ids": [
+        "repomix-fact-route"
+      ],
+      "dispositions": {
+        "delegated": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-context7",
+      "audit_lines": "288",
+      "claim": "Versioned official library facts",
+      "source_selectors": [
+        "/context7/",
+        "/context7-cli/"
+      ],
+      "variant_ids": [
+        "context7-fact-route"
+      ],
+      "dispositions": {
+        "delegated": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-gbrain",
+      "audit_lines": "291",
+      "claim": "Knowledge source presence and coverage remain distinct",
+      "source_selectors": [
+        "/gbrain/"
+      ],
+      "variant_ids": [
+        "gbrain-fact-route"
+      ],
+      "dispositions": {
+        "delegated": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-gsd-mcp",
+      "audit_lines": "290",
+      "claim": "GSD command/state interface boundary",
+      "source_selectors": [
+        "/mcp-server.cjs"
+      ],
+      "variant_ids": [
+        "routing-gsd-command-write",
+        "routing-gsd-state-read"
+      ],
+      "dispositions": {
+        "delegated": 1,
+        "specialist_only": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-drive",
+      "audit_lines": "292",
+      "claim": "Owner-document identity and revision routes",
+      "source_selectors": [
+        "/google-drive/0.1.22/skills/google-drive/"
+      ],
+      "variant_ids": [
+        "routing-drive-edit-lifecycle",
+        "routing-owner-doc-identity",
+        "routing-owner-doc-revision"
+      ],
+      "dispositions": {
+        "conditional_method": 1,
+        "delegated": 1,
+        "specialist_only": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-firecrawl",
+      "audit_lines": "293",
+      "claim": "Explicitly prohibited provider routes",
+      "source_selectors": [
+        "/skills/firecrawl/",
+        "/firecrawl-deep-research/"
+      ],
+      "variant_ids": [
+        "routing-firecrawl-browser-interaction",
+        "routing-firecrawl-deep",
+        "routing-firecrawl-developer-research",
+        "routing-firecrawl-documents",
+        "routing-firecrawl-entry",
+        "routing-firecrawl-feedback",
+        "routing-firecrawl-monitoring",
+        "routing-firecrawl-paper-research",
+        "routing-firecrawl-site-collection",
+        "routing-firecrawl-structured-data"
+      ],
+      "dispositions": {
+        "excluded_with_reason": 10
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-skill-creators",
+      "audit_lines": "72-73",
+      "claim": "Shared and native authoring methods remain separate",
+      "source_selectors": [
+        "/skill-creator/"
+      ],
+      "variant_ids": [
+        "authoring-0",
+        "authoring-1",
+        "authoring-2",
+        "authoring-3",
+        "authoring-4",
+        "authoring-5"
+      ],
+      "dispositions": {
+        "specialist_only": 6
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-plugin-creator",
+      "audit_lines": "newly discovered",
+      "claim": "Native plugin authoring support",
+      "source_selectors": [
+        "/plugin-creator/"
+      ],
+      "variant_ids": [
+        "specialist-plugin-authoring-SKILL",
+        "specialist-plugin-authoring-local-plugins",
+        "specialist-plugin-authoring-plugin-packages",
+        "specialist-plugin-authoring-zip-requirements"
+      ],
+      "dispositions": {
+        "specialist_only": 4
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-n8n",
+      "audit_lines": "newly discovered",
+      "claim": "Automation specialist instructions stay in their factory",
+      "source_selectors": [
+        "/n8n-skills/"
+      ],
+      "variant_ids": [
+        "completion-n8n-specialist-router"
+      ],
+      "dispositions": {
+        "specialist_only": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-website-authority",
+      "audit_lines": "196; 382",
+      "claim": "Project authority/exposure vocabulary",
+      "source_selectors": [
+        "/website_reconstruct/agents.md"
+      ],
+      "variant_ids": [
+        "website-authority"
+      ],
+      "dispositions": {
+        "integrated": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-public-cucumber",
+      "audit_lines": "479",
+      "claim": "Public methodology cucumber",
+      "source_selectors": [
+        "cucumber.io/"
+      ],
+      "variant_ids": [
+        "cucumber-example-mapping",
+        "public-variant-example-map-scope",
+        "public-variant-example-map-timebox"
+      ],
+      "dispositions": {
+        "conditional_method": 3
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-public-sei",
+      "audit_lines": "478",
+      "claim": "Public methodology sei",
+      "source_selectors": [
+        "sei.cmu.edu/"
+      ],
+      "variant_ids": [
+        "public-variant-qaw-consolidate",
+        "public-variant-qaw-prioritize-refine",
+        "sei-quality-workshop"
+      ],
+      "dispositions": {
+        "conditional_method": 3
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-public-arc42",
+      "audit_lines": "486",
+      "claim": "Public methodology arc42",
+      "source_selectors": [
+        "docs.arc42.org/"
+      ],
+      "variant_ids": [
+        "arc42-quality-scenarios",
+        "public-variant-quality-change",
+        "public-variant-quality-runtime"
+      ],
+      "dispositions": {
+        "conditional_method": 3
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-public-eventstorming",
+      "audit_lines": "487",
+      "claim": "Public methodology eventstorming",
+      "source_selectors": [
+        "eventstorming.com/"
+      ],
+      "variant_ids": [
+        "eventstorming",
+        "public-variant-eventstorming-envision",
+        "public-variant-eventstorming-improve",
+        "public-variant-eventstorming-services",
+        "public-variant-eventstorming-software-design"
+      ],
+      "dispositions": {
+        "conditional_method": 4,
+        "specialist_only": 1
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-public-bmad",
+      "audit_lines": "488",
+      "claim": "Public methodology bmad",
+      "source_selectors": [
+        "/bmad-method/"
+      ],
+      "variant_ids": [
+        "bmad-advanced-elicitation",
+        "bmad-forge-idea",
+        "public-variant-bmad-forge-attack-defend",
+        "public-variant-bmad-forge-clarify",
+        "public-variant-bmad-forge-exits",
+        "public-variant-bmad-forge-improve",
+        "public-variant-bmad-forge-locks-resume",
+        "public-variant-bmad-forge-test",
+        "public-variant-bmad-personas-lifecycle",
+        "public-variant-bmad-repo-authority"
+      ],
+      "dispositions": {
+        "conditional_method": 8,
+        "excluded_with_reason": 2
+      },
+      "accounting_note": "Individual method dispositions, source evidence and boundaries are in the linked ledger records.",
+      "record_kind": "method_family_route"
+    },
+    {
+      "id": "audit-discovery-relocation-aliases",
+      "audit_lines": "34-54; 274",
+      "claim": "Junction-backed distributions and relocated storage",
+      "record_kind": "discovery_or_recommendation_disposition",
+      "status": "excluded_with_reason",
+      "reason": "Storage aliases are not distinct behavior. Exact aliases are retained with source records and distribution-aliases.json; directory counts are historical discovery facts.",
+      "variant_ids": []
+    },
+    {
+      "id": "audit-discovery-empty-cursor-agents",
+      "audit_lines": "268",
+      "claim": "No custom Cursor agents in the old audit",
+      "record_kind": "discovery_or_recommendation_disposition",
+      "status": "excluded_with_reason",
+      "reason": "Historical empty-directory finding; no distinct intake instructions to import.",
+      "variant_ids": []
+    },
+    {
+      "id": "audit-discovery-empty-cline-workflows",
+      "audit_lines": "271",
+      "claim": "No custom Cline workflows in the old audit",
+      "record_kind": "discovery_or_recommendation_disposition",
+      "status": "excluded_with_reason",
+      "reason": "Historical empty-directory finding; native interface semantics are separately accounted for.",
+      "variant_ids": []
+    },
+    {
+      "id": "audit-discovery-other-workspaces",
+      "audit_lines": "199-201; 275",
+      "claim": "ffmpeg/prompt_reconstruction/older/Gemini locations",
+      "record_kind": "discovery_or_recommendation_disposition",
+      "status": "excluded_with_reason",
+      "reason": "The prior audit found no additional intake method there. No present-day activation or exhaustive-drive-search claim is made.",
+      "variant_ids": []
+    },
+    {
+      "id": "audit-discovery-optional-connectors",
+      "audit_lines": "292-293",
+      "claim": "GitHub/Linear/browser/Exa as possible evidence locations",
+      "record_kind": "discovery_or_recommendation_disposition",
+      "status": "delegated",
+      "reason": "Optional bounded source routes; metadata presence does not establish authentication, useful contents or authority. No connector call was made in this pass. See coverage-routing.md#connected-owner-documents.",
+      "variant_ids": []
+    },
+    {
+      "id": "audit-discovery-openspec-recommendation",
+      "audit_lines": "500",
+      "claim": "Optional OpenSpec installation recommendation",
+      "record_kind": "discovery_or_recommendation_disposition",
+      "status": "excluded_with_reason",
+      "reason": "No new installation or wholesale lifecycle import. Separately inspected ProductShape OpenSpec host assets are recorded as their own variants.",
+      "variant_ids": []
+    }
+  ]
+}

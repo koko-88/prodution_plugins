@@ -1,0 +1,176 @@
+2026-10-19T15:43:55.153Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Successfully enabled SQLite WAL mode
+2026-10-19T15:43:55.155Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Running database migrations from: C:\Users\kerol\AppData\Roaming\npm\node_modules\promptfoo\dist\drizzle
+2026-10-19T15:43:55.168Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Database migrations completed
+2026-10-19T15:43:55.183Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\sw_context-layer\\promptfooconfig.cjs","moduleId":"K:\\sw_context-layer\\promptfooconfig.cjs"}
+2026-10-19T15:43:55.183Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/sw_context-layer/promptfooconfig.cjs
+2026-10-19T15:43:55.187Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\sw_context-layer\\promptfooconfig.cts","moduleId":"K:\\sw_context-layer\\promptfooconfig.cts"}
+2026-10-19T15:43:55.187Z [DEBUG] [logger-ChlKG5Wv.js:1474]: TypeScript module detected, registering tsx loader
+2026-10-19T15:43:55.230Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/sw_context-layer/promptfooconfig.cts
+2026-10-19T15:43:55.237Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\sw_context-layer\\promptfooconfig.js","moduleId":"K:\\sw_context-layer\\promptfooconfig.js"}
+2026-10-19T15:43:55.237Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/sw_context-layer/promptfooconfig.js
+2026-10-19T15:43:55.243Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\sw_context-layer\\promptfooconfig.mjs","moduleId":"K:\\sw_context-layer\\promptfooconfig.mjs"}
+2026-10-19T15:43:55.243Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/sw_context-layer/promptfooconfig.mjs
+2026-10-19T15:43:55.250Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\sw_context-layer\\promptfooconfig.mts","moduleId":"K:\\sw_context-layer\\promptfooconfig.mts"}
+2026-10-19T15:43:55.250Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/sw_context-layer/promptfooconfig.mts
+2026-10-19T15:43:55.256Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\sw_context-layer\\promptfooconfig.ts","moduleId":"K:\\sw_context-layer\\promptfooconfig.ts"}
+2026-10-19T15:43:55.256Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/sw_context-layer/promptfooconfig.ts
+2026-10-19T15:43:55.273Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\sw_context-layer\\redteam.cjs","moduleId":"K:\\sw_context-layer\\redteam.cjs"}
+2026-10-19T15:43:55.273Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/sw_context-layer/redteam.cjs
+2026-10-19T15:43:55.280Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\sw_context-layer\\redteam.cts","moduleId":"K:\\sw_context-layer\\redteam.cts"}
+2026-10-19T15:43:55.280Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/sw_context-layer/redteam.cts
+2026-10-19T15:43:55.286Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\sw_context-layer\\redteam.js","moduleId":"K:\\sw_context-layer\\redteam.js"}
+2026-10-19T15:43:55.286Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/sw_context-layer/redteam.js
+2026-10-19T15:43:55.292Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\sw_context-layer\\redteam.mjs","moduleId":"K:\\sw_context-layer\\redteam.mjs"}
+2026-10-19T15:43:55.292Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/sw_context-layer/redteam.mjs
+2026-10-19T15:43:55.298Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\sw_context-layer\\redteam.mts","moduleId":"K:\\sw_context-layer\\redteam.mts"}
+2026-10-19T15:43:55.298Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/sw_context-layer/redteam.mts
+2026-10-19T15:43:55.303Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\sw_context-layer\\redteam.ts","moduleId":"K:\\sw_context-layer\\redteam.ts"}
+2026-10-19T15:43:55.304Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/sw_context-layer/redteam.ts
+2026-10-19T15:43:55.416Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Reading prompts from ["file://K:\\sw_context-layer\\promptfoo\\prompt.txt"]
+2026-10-19T15:43:55.430Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\sw_context-layer\\promptfoo\\providers\\cursor-agent.js","moduleId":"promptfoo\\providers\\cursor-agent.js"}
+2026-10-19T15:43:55.435Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/sw_context-layer/promptfoo/providers/cursor-agent.js
+2026-10-19T15:43:55.449Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Successfully imported module: {"resolvedPath":"file:///K:/sw_context-layer/promptfoo/providers/cursor-agent.js","moduleId":"promptfoo\\providers\\cursor-agent.js"}
+2026-10-19T15:43:55.463Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Dereferencing test file: K:\sw_context-layer\promptfoo\cases.yaml
+2026-10-19T15:43:55.466Z [INFO]: Cache is disabled.
+2026-10-19T15:43:55.472Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Starting filterTests with options: {"pattern":"UC-(06|07|13|34|35) "}
+2026-10-19T15:43:55.472Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Initial test count: 35
+2026-10-19T15:43:55.484Z [DEBUG] [logger-ChlKG5Wv.js:1480]: [EvaluatorTracing] Checking tracing configuration
+{
+  "testSuiteKeys": [
+    "description",
+    "tags",
+    "prompts",
+    "providers",
+    "providerPromptMap",
+    "tests",
+    "scenarios",
+    "defaultTest",
+    "derivedMetrics",
+    "nunjucksFilters",
+    "redteam",
+    "extensions",
+    "tracing"
+  ]
+}
+2026-10-19T15:43:55.484Z [DEBUG] [logger-ChlKG5Wv.js:1474]: [EvaluatorTracing] Tracing not enabled or OTLP HTTP receiver not configured
+2026-10-19T15:43:55.484Z [DEBUG] [logger-ChlKG5Wv.js:1474]: [EvaluatorTracing] tracing.enabled: undefined
+2026-10-19T15:43:55.484Z [DEBUG] [logger-ChlKG5Wv.js:1474]: [EvaluatorTracing] tracing.otlp.http.enabled: undefined
+2026-10-19T15:43:55.485Z [INFO]: Starting evaluation eval-ws3-2026-10-19T15:43:55
+2026-10-19T15:43:55.493Z [DEBUG] [logger-ChlKG5Wv.js:1474]: [Evaluator] Tracing check: env=false, testCase.metadata?.tracingEnabled=undefined, testSuite.tracing?.enabled=undefined, tracingEnabled=false
+2026-10-19T15:43:55.494Z [DEBUG] [logger-ChlKG5Wv.js:1474]: [Evaluator] Tracing check: env=false, testCase.metadata?.tracingEnabled=undefined, testSuite.tracing?.enabled=undefined, tracingEnabled=false
+2026-10-19T15:43:55.494Z [DEBUG] [logger-ChlKG5Wv.js:1474]: [Evaluator] Tracing check: env=false, testCase.metadata?.tracingEnabled=undefined, testSuite.tracing?.enabled=undefined, tracingEnabled=false
+2026-10-19T15:43:55.499Z [DEBUG] [logger-ChlKG5Wv.js:1474]: [Evaluator] Tracing check: env=false, testCase.metadata?.tracingEnabled=undefined, testSuite.tracing?.enabled=undefined, tracingEnabled=false
+2026-10-19T15:43:55.499Z [DEBUG] [logger-ChlKG5Wv.js:1474]: [Evaluator] Tracing check: env=false, testCase.metadata?.tracingEnabled=undefined, testSuite.tracing?.enabled=undefined, tracingEnabled=false
+2026-10-19T15:43:55.501Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Progress bar settings: showProgressBar=false, isWebUI=false
+2026-10-19T15:43:55.501Z [INFO]: Running 5 test cases (up to 1 at a time)...
+2026-10-19T15:43:55.501Z [INFO]: Serial grading grouping disabled because per-eval-step timeout is configured; model-graded judges may reload between rows.
+2026-10-19T15:43:55.520Z [DEBUG] [logger-ChlKG5Wv.js:1474]: [EvaluatorTracing] isTracingEnabled check: metadata=false, yamlConfig=false, env=false, result=false
+2026-10-19T15:43:55.521Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Provider type: file://providers/cursor-agent.js
+2026-10-19T15:45:17.832Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Provider response properties: output, raw
+2026-10-19T15:45:17.832Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Provider response cached property explicitly: undefined
+2026-10-19T15:45:17.834Z [DEBUG] [logger-ChlKG5Wv.js:1480]: Evaluator response
+{
+  "responsePreview": "{\"output\":\"I'll read the Context Intake skill and its policy/contract references first, then resume "
+}
+2026-10-19T15:45:17.834Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Evaluator checking cached flag: response.cached = false, provider.delay = 0
+2026-10-19T15:45:21.030Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Using Codex SDK default providers from ChatGPT/Codex credentials
+2026-10-19T15:45:21.051Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\sw_context-layer\\promptfoo\\providers\\cursor-agent.js","moduleId":"promptfoo\\providers\\cursor-agent.js"}
+2026-10-19T15:45:21.052Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/sw_context-layer/promptfoo/providers/cursor-agent.js
+2026-10-19T15:45:21.057Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Successfully imported module: {"resolvedPath":"file:///K:/sw_context-layer/promptfoo/providers/cursor-agent.js","moduleId":"promptfoo\\providers\\cursor-agent.js"}
+2026-10-19T15:45:43.277Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Eval #1 complete (1 of 5)
+2026-10-19T15:45:43.288Z [DEBUG] [logger-ChlKG5Wv.js:1474]: [EvaluatorTracing] isTracingEnabled check: metadata=false, yamlConfig=false, env=false, result=false
+2026-10-19T15:45:43.288Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Provider type: file://providers/cursor-agent.js
+2026-10-19T15:47:53.279Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Provider response properties: output, raw
+2026-10-19T15:47:53.280Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Provider response cached property explicitly: undefined
+2026-10-19T15:47:53.281Z [DEBUG] [logger-ChlKG5Wv.js:1480]: Evaluator response
+{
+  "responsePreview": "{\"output\":\"I'll read the Context Intake skill and its policy/contract references first, then apply t"
+}
+2026-10-19T15:47:53.282Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Evaluator checking cached flag: response.cached = false, provider.delay = 0
+2026-10-19T15:47:53.293Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Using Codex SDK default providers from ChatGPT/Codex credentials
+2026-10-19T15:47:53.304Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\sw_context-layer\\promptfoo\\providers\\cursor-agent.js","moduleId":"promptfoo\\providers\\cursor-agent.js"}
+2026-10-19T15:47:53.305Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/sw_context-layer/promptfoo/providers/cursor-agent.js
+2026-10-19T15:47:53.310Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Successfully imported module: {"resolvedPath":"file:///K:/sw_context-layer/promptfoo/providers/cursor-agent.js","moduleId":"promptfoo\\providers\\cursor-agent.js"}
+2026-10-19T15:48:14.799Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Eval #2 complete (2 of 5)
+2026-10-19T15:48:14.808Z [DEBUG] [logger-ChlKG5Wv.js:1474]: [EvaluatorTracing] isTracingEnabled check: metadata=false, yamlConfig=false, env=false, result=false
+2026-10-19T15:48:14.808Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Provider type: file://providers/cursor-agent.js
+2026-10-19T15:50:31.193Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Provider response properties: output, raw
+2026-10-19T15:50:31.193Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Provider response cached property explicitly: undefined
+2026-10-19T15:50:31.195Z [DEBUG] [logger-ChlKG5Wv.js:1480]: Evaluator response
+{
+  "responsePreview": "{\"output\":\"I'll read the Context Intake skill and its policy/contract references first, then apply t"
+}
+2026-10-19T15:50:31.195Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Evaluator checking cached flag: response.cached = false, provider.delay = 0
+2026-10-19T15:50:31.207Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Using Codex SDK default providers from ChatGPT/Codex credentials
+2026-10-19T15:50:31.219Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\sw_context-layer\\promptfoo\\providers\\cursor-agent.js","moduleId":"promptfoo\\providers\\cursor-agent.js"}
+2026-10-19T15:50:31.219Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/sw_context-layer/promptfoo/providers/cursor-agent.js
+2026-10-19T15:50:31.224Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Successfully imported module: {"resolvedPath":"file:///K:/sw_context-layer/promptfoo/providers/cursor-agent.js","moduleId":"promptfoo\\providers\\cursor-agent.js"}
+2026-10-19T15:50:56.143Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Eval #3 complete (3 of 5)
+2026-10-19T15:50:56.152Z [DEBUG] [logger-ChlKG5Wv.js:1474]: [EvaluatorTracing] isTracingEnabled check: metadata=false, yamlConfig=false, env=false, result=false
+2026-10-19T15:50:56.152Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Provider type: file://providers/cursor-agent.js
+2026-10-19T15:51:33.113Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Provider response properties: output, raw
+2026-10-19T15:51:33.113Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Provider response cached property explicitly: undefined
+2026-10-19T15:51:33.114Z [DEBUG] [logger-ChlKG5Wv.js:1480]: Evaluator response
+{
+  "responsePreview": "{\"output\":\"I'll load the Context Intake skill and its policy/contract references first, then review "
+}
+2026-10-19T15:51:33.114Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Evaluator checking cached flag: response.cached = false, provider.delay = 0
+2026-10-19T15:51:33.122Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Using Codex SDK default providers from ChatGPT/Codex credentials
+2026-10-19T15:51:33.134Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\sw_context-layer\\promptfoo\\providers\\cursor-agent.js","moduleId":"promptfoo\\providers\\cursor-agent.js"}
+2026-10-19T15:51:33.134Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/sw_context-layer/promptfoo/providers/cursor-agent.js
+2026-10-19T15:51:33.139Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Successfully imported module: {"resolvedPath":"file:///K:/sw_context-layer/promptfoo/providers/cursor-agent.js","moduleId":"promptfoo\\providers\\cursor-agent.js"}
+2026-10-19T15:52:08.759Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Eval #4 complete (4 of 5)
+2026-10-19T15:52:08.768Z [DEBUG] [logger-ChlKG5Wv.js:1474]: [EvaluatorTracing] isTracingEnabled check: metadata=false, yamlConfig=false, env=false, result=false
+2026-10-19T15:52:08.768Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Provider type: file://providers/cursor-agent.js
+2026-10-19T15:53:56.791Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Provider response properties: output, raw
+2026-10-19T15:53:56.792Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Provider response cached property explicitly: undefined
+2026-10-19T15:53:56.793Z [DEBUG] [logger-ChlKG5Wv.js:1480]: Evaluator response
+{
+  "responsePreview": "{\"output\":\"I'll read the Context Intake skill and its policy/contract references first, then run int"
+}
+2026-10-19T15:53:56.793Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Evaluator checking cached flag: response.cached = false, provider.delay = 0
+2026-10-19T15:53:56.801Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Using Codex SDK default providers from ChatGPT/Codex credentials
+2026-10-19T15:53:56.812Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\sw_context-layer\\promptfoo\\providers\\cursor-agent.js","moduleId":"promptfoo\\providers\\cursor-agent.js"}
+2026-10-19T15:53:56.813Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/sw_context-layer/promptfoo/providers/cursor-agent.js
+2026-10-19T15:53:56.818Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Successfully imported module: {"resolvedPath":"file:///K:/sw_context-layer/promptfoo/providers/cursor-agent.js","moduleId":"promptfoo\\providers\\cursor-agent.js"}
+2026-10-19T15:54:31.462Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Eval #5 complete (5 of 5)
+2026-10-19T15:54:31.470Z [DEBUG] [logger-ChlKG5Wv.js:1480]: [Scheduler] Final metrics for file://providers/cursor-agent.js
+{
+  "totalRequests": 10,
+  "completedRequests": 10,
+  "failedRequests": 0,
+  "rateLimitHits": 0,
+  "retriedRequests": 0,
+  "avgLatencyMs": 63247,
+  "p50LatencyMs": 35610,
+  "p99LatencyMs": 129986
+}
+2026-10-19T15:54:31.471Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Wants to share: false
+2026-10-19T15:54:31.471Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Can share eval: false
+2026-10-19T15:54:31.472Z [DEBUG] [logger-ChlKG5Wv.js:1474]: At least one evaluation failure occurred. This might be caused by the underlying call to the provider, or a test failure. Context: 
+[{"raw":"Apply the existing Context Intake method to the user request below. First read\n{{skill_root}}/SKILL.md and its policy and contract references in one batched\nshell call (the three paths are already known). Read further\nreferences only when relevant. Do not change the skill or evaluate yourself.\nThe current working directory is the consumer workspace for this request;\nthe parent repository's plugin-build instructions are not consumer requirements.\nRespect the request's authorization and interaction preferences. Keep your answer\nconcise; give a complete handoff when requested. Do not describe this evaluation.\n\nUSER REQUEST\n{{request}}","label":"promptfoo\\prompt.txt: Apply the existing Context Intake method to the user request below. First read\n{{skill_root}}/SKILL.md and its policy and contract references in one batched\nshell call (the three paths are already known). Read further\nreferences only when relevant. Do not change the skill or evaluate yourself.\nThe current working directory is the consumer workspace for this request;\nthe parent repository's plugin-build instructions are not consumer requirements.\nRespect the request's authorization and interaction preferences. Keep your answer\nconcise; give a complete handoff when requested. Do not describe this evaluation.\n\nUSER REQUEST\n{{request}}","id":"1c1ee9c6347d5d03ccb123e9e5bc50b714d80ac8026ce9b37d5bc8f40a144918","provider":"cursor-agent-subject","metrics":{"score":4.5,"testPassCount":4,"testFailCount":1,"testErrorCount":0,"assertPassCount":9,"assertFailCount":1,"totalLatencyMs":493674,"tokenUsage":{"prompt":0,"completion":0,"cached":0,"total":0,"numRequests":5,"completionDetails":{"reasoning":0,"acceptedPrediction":0,"rejectedPrediction":0,"cacheReadInputTokens":0,"cacheCreationInputTokens":0},"assertions":{"total":0,"prompt":0,"completion":0,"cached":0,"numRequests":5,"completionDetails":{"reasoning":0,"acceptedPrediction":0,"rejectedPrediction":0,"cacheReadInputTokens":0,"cacheCreationInputTokens":0}}},"namedScores":{},"namedScoresCount":{},"namedScoreWeights":{},"cost":0}}]
+2026-10-19T15:54:31.480Z [INFO]: ✓ Eval complete
+2026-10-19T15:54:31.480Z [INFO]: 
+2026-10-19T15:54:31.480Z [INFO]: 
+2026-10-19T15:54:31.480Z [INFO]: Results:
+2026-10-19T15:54:31.480Z [INFO]:   ✓ 4 passed (80.00%)
+2026-10-19T15:54:31.480Z [INFO]:   ✗ 1 failed (20.00%)
+2026-10-19T15:54:31.480Z [INFO]:   0 errors (0%)
+2026-10-19T15:54:31.480Z [INFO]: Duration: 10m 36s (concurrency: 1)
+2026-10-19T15:54:31.480Z [INFO]: 
+2026-10-19T15:54:31.481Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Shareable URL: null
+2026-10-19T15:54:31.492Z [DEBUG] [logger-ChlKG5Wv.js:1474]: [TraceStore] Creating new TraceStore instance
+2026-10-19T15:54:31.492Z [DEBUG] [logger-ChlKG5Wv.js:1474]: [TraceStore] Fetching traces for evaluation eval-ws3-2026-10-19T15:43:55
+2026-10-19T15:54:31.492Z [DEBUG] [logger-ChlKG5Wv.js:1474]: [TraceStore] Initializing database connection
+2026-10-19T15:54:31.501Z [DEBUG] [logger-ChlKG5Wv.js:1474]: [TraceStore] Found 0 traces for evaluation eval-ws3-2026-10-19T15:43:55
+2026-10-19T15:54:31.501Z [DEBUG] [logger-ChlKG5Wv.js:1474]: [TraceStore] Returning 0 traces with spans
+2026-10-19T15:54:31.547Z [INFO]: Writing output to promptfoo/results/uc-fail-cursor-rerun-20261019-184351.json
+2026-10-19T15:54:31.553Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Shutting down gracefully...
+2026-10-19T15:54:31.560Z [DEBUG] [logger-ChlKG5Wv.js:1480]: Successfully checkpointed WAL file before closing
+{
+  "busy": 0,
+  "log": 0,
+  "checkpointed": 0
+}
+2026-10-19T15:54:31.560Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Database connection closed successfully
+2026-10-19T15:54:31.565Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Closing logger file transports

@@ -1,0 +1,208 @@
+2026-10-19T13:07:12.097Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Successfully enabled SQLite WAL mode
+2026-10-19T13:07:12.099Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Running database migrations from: C:\Users\kerol\AppData\Roaming\npm\node_modules\promptfoo\dist\drizzle
+2026-10-19T13:07:12.112Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Database migrations completed
+2026-10-19T13:07:12.120Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\sw_context-layer\\promptfooconfig.cjs","moduleId":"K:\\sw_context-layer\\promptfooconfig.cjs"}
+2026-10-19T13:07:12.120Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/sw_context-layer/promptfooconfig.cjs
+2026-10-19T13:07:12.124Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\sw_context-layer\\promptfooconfig.cts","moduleId":"K:\\sw_context-layer\\promptfooconfig.cts"}
+2026-10-19T13:07:12.124Z [DEBUG] [logger-ChlKG5Wv.js:1474]: TypeScript module detected, registering tsx loader
+2026-10-19T13:07:12.195Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/sw_context-layer/promptfooconfig.cts
+2026-10-19T13:07:12.202Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\sw_context-layer\\promptfooconfig.js","moduleId":"K:\\sw_context-layer\\promptfooconfig.js"}
+2026-10-19T13:07:12.202Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/sw_context-layer/promptfooconfig.js
+2026-10-19T13:07:12.208Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\sw_context-layer\\promptfooconfig.mjs","moduleId":"K:\\sw_context-layer\\promptfooconfig.mjs"}
+2026-10-19T13:07:12.209Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/sw_context-layer/promptfooconfig.mjs
+2026-10-19T13:07:12.215Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\sw_context-layer\\promptfooconfig.mts","moduleId":"K:\\sw_context-layer\\promptfooconfig.mts"}
+2026-10-19T13:07:12.215Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/sw_context-layer/promptfooconfig.mts
+2026-10-19T13:07:12.222Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\sw_context-layer\\promptfooconfig.ts","moduleId":"K:\\sw_context-layer\\promptfooconfig.ts"}
+2026-10-19T13:07:12.222Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/sw_context-layer/promptfooconfig.ts
+2026-10-19T13:07:12.242Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\sw_context-layer\\redteam.cjs","moduleId":"K:\\sw_context-layer\\redteam.cjs"}
+2026-10-19T13:07:12.242Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/sw_context-layer/redteam.cjs
+2026-10-19T13:07:12.248Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\sw_context-layer\\redteam.cts","moduleId":"K:\\sw_context-layer\\redteam.cts"}
+2026-10-19T13:07:12.248Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/sw_context-layer/redteam.cts
+2026-10-19T13:07:12.254Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\sw_context-layer\\redteam.js","moduleId":"K:\\sw_context-layer\\redteam.js"}
+2026-10-19T13:07:12.254Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/sw_context-layer/redteam.js
+2026-10-19T13:07:12.261Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\sw_context-layer\\redteam.mjs","moduleId":"K:\\sw_context-layer\\redteam.mjs"}
+2026-10-19T13:07:12.261Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/sw_context-layer/redteam.mjs
+2026-10-19T13:07:12.267Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\sw_context-layer\\redteam.mts","moduleId":"K:\\sw_context-layer\\redteam.mts"}
+2026-10-19T13:07:12.267Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/sw_context-layer/redteam.mts
+2026-10-19T13:07:12.274Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"K:\\sw_context-layer\\redteam.ts","moduleId":"K:\\sw_context-layer\\redteam.ts"}
+2026-10-19T13:07:12.274Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///K:/sw_context-layer/redteam.ts
+2026-10-19T13:07:12.854Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Reading prompts from ["file://K:\\sw_context-layer\\promptfoo\\prompt.txt"]
+2026-10-19T13:07:13.139Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Dereferencing test file: K:\sw_context-layer\promptfoo\cases.yaml
+2026-10-19T13:07:13.142Z [INFO]: Cache is disabled.
+2026-10-19T13:07:13.149Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Starting filterTests with options: {"pattern":"^UC-01 "}
+2026-10-19T13:07:13.149Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Initial test count: 35
+2026-10-19T13:07:13.164Z [DEBUG] [logger-ChlKG5Wv.js:1480]: [EvaluatorTracing] Checking tracing configuration
+{
+  "testSuiteKeys": [
+    "description",
+    "tags",
+    "prompts",
+    "providers",
+    "providerPromptMap",
+    "tests",
+    "scenarios",
+    "defaultTest",
+    "derivedMetrics",
+    "nunjucksFilters",
+    "redteam",
+    "extensions",
+    "tracing"
+  ]
+}
+2026-10-19T13:07:13.164Z [DEBUG] [logger-ChlKG5Wv.js:1474]: [EvaluatorTracing] Tracing not enabled or OTLP HTTP receiver not configured
+2026-10-19T13:07:13.164Z [DEBUG] [logger-ChlKG5Wv.js:1474]: [EvaluatorTracing] tracing.enabled: undefined
+2026-10-19T13:07:13.164Z [DEBUG] [logger-ChlKG5Wv.js:1474]: [EvaluatorTracing] tracing.otlp.http.enabled: undefined
+2026-10-19T13:07:13.165Z [INFO]: Starting evaluation eval-WXZ-2026-10-19T13:07:13
+2026-10-19T13:07:13.175Z [DEBUG] [logger-ChlKG5Wv.js:1474]: [Evaluator] Tracing check: env=false, testCase.metadata?.tracingEnabled=undefined, testSuite.tracing?.enabled=undefined, tracingEnabled=false
+2026-10-19T13:07:13.177Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Progress bar settings: showProgressBar=false, isWebUI=false
+2026-10-19T13:07:13.177Z [INFO]: Running 1 test cases (up to 1 at a time)...
+2026-10-19T13:07:13.177Z [INFO]: Serial grading grouping disabled because per-eval-step timeout is configured; model-graded judges may reload between rows.
+2026-10-19T13:07:13.199Z [DEBUG] [logger-ChlKG5Wv.js:1474]: [EvaluatorTracing] isTracingEnabled check: metadata=false, yamlConfig=false, env=false, result=false
+2026-10-19T13:07:13.201Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Provider type: openai:codex-sdk
+2026-10-19T13:07:13.573Z [DEBUG] [logger-ChlKG5Wv.js:1474]: [CodexSDK] No explicit API credentials configured; deferring auth resolution to Codex SDK login state
+2026-10-19T13:07:13.586Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"C:\\Users\\kerol\\AppData\\Roaming\\npm\\node_modules\\promptfoo\\node_modules\\@openai\\codex-sdk\\dist\\index.js","moduleId":"C:\\Users\\kerol\\AppData\\Roaming\\npm\\node_modules\\promptfoo\\node_modules\\@openai\\codex-sdk\\dist\\index.js"}
+2026-10-19T13:07:13.586Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///C:/Users/kerol/AppData/Roaming/npm/node_modules/promptfoo/node_modules/@openai/codex-sdk/dist/index.js
+2026-10-19T13:07:13.596Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Successfully imported module: {"resolvedPath":"file:///C:/Users/kerol/AppData/Roaming/npm/node_modules/promptfoo/node_modules/@openai/codex-sdk/dist/index.js","moduleId":"C:\\Users\\kerol\\AppData\\Roaming\\npm\\node_modules\\promptfoo\\node_modules\\@openai\\codex-sdk\\dist\\index.js"}
+2026-10-19T13:07:20.046Z [DEBUG] [logger-ChlKG5Wv.js:1480]: Codex item completed
+{
+  "itemId": "item_0",
+  "type": "error",
+  "durationMs": 1918
+}
+2026-10-19T13:07:28.022Z [DEBUG] [logger-ChlKG5Wv.js:1480]: Codex item started
+{
+  "itemId": "item_1",
+  "type": "command_execution"
+}
+2026-10-19T13:07:29.139Z [DEBUG] [logger-ChlKG5Wv.js:1480]: Codex item completed
+{
+  "itemId": "item_1",
+  "type": "command_execution",
+  "durationMs": 1115
+}
+2026-10-19T13:07:36.127Z [DEBUG] [logger-ChlKG5Wv.js:1480]: Codex item started
+{
+  "itemId": "item_2",
+  "type": "command_execution"
+}
+2026-10-19T13:07:37.110Z [DEBUG] [logger-ChlKG5Wv.js:1480]: Codex item completed
+{
+  "itemId": "item_2",
+  "type": "command_execution",
+  "durationMs": 984
+}
+2026-10-19T13:07:44.854Z [DEBUG] [logger-ChlKG5Wv.js:1480]: Codex item started
+{
+  "itemId": "item_3",
+  "type": "command_execution"
+}
+2026-10-19T13:07:45.875Z [DEBUG] [logger-ChlKG5Wv.js:1480]: Codex item completed
+{
+  "itemId": "item_3",
+  "type": "command_execution",
+  "durationMs": 1020
+}
+2026-10-19T13:07:55.553Z [DEBUG] [logger-ChlKG5Wv.js:1480]: Codex item started
+{
+  "itemId": "item_4",
+  "type": "command_execution"
+}
+2026-10-19T13:07:56.620Z [DEBUG] [logger-ChlKG5Wv.js:1480]: Codex item completed
+{
+  "itemId": "item_4",
+  "type": "command_execution",
+  "durationMs": 1073
+}
+2026-10-19T13:08:59.104Z [DEBUG] [logger-ChlKG5Wv.js:1480]: Codex item completed
+{
+  "itemId": "item_5",
+  "type": "agent_message",
+  "durationMs": 62483
+}
+2026-10-19T13:08:59.229Z [DEBUG] [logger-ChlKG5Wv.js:1480]: Codex turn completed
+{
+  "usage": {
+    "input_tokens": 122872,
+    "cached_input_tokens": 95104,
+    "cache_write_input_tokens": 0,
+    "output_tokens": 3651,
+    "reasoning_output_tokens": 484
+  }
+}
+2026-10-19T13:09:00.064Z [DEBUG] [logger-ChlKG5Wv.js:1480]: OpenAI Codex SDK response
+{
+  "output": "# Intake Handoff\n\n## Identity & Stage\n\n```json\n{\"identity\":{\"id\":\"REQ-12b6579fc293\",\"schema_version\":\"1.0.0\",\"request_key\":\"12b6579fc29362eb6c250f46c53ac6928f47df8eb5cda6db44a75f6ed1f25091\",\"slug\":\"every-weekday-at-09-00-utc-send-the-previous-utc-calendar-da-12b6579fc293\",\"domain\":\"scheduled operations reporting and email delivery\",\"scope\":\"Send a daily aggregate order count to the operations mailbox on weekdays.\",\"status\":\"ready_for_domain_acquisition\",\"owner\":\"operations owner\",\"updated_by\":\"intake-agent\",\"updated_at\":\"2026-10-19T00:00:00+03:00\",\"canonical_path\":\"docs/intake/every-weekday-at-09-00-utc-send-the-previous-utc-calendar-da-12b6579fc293/HANDOFF.md\",\"approval\":\"owner_confirmed\"}}\n```\n\nده handoff مبدئي داخل المحادثة فقط؛ مفيش ملف canonical اتكتب بسبب شرط read-only.\n\n## Intent & Outcomes\n\n- **R1 — مؤكد (E1، S1، D1):** تشغيل العملية الساعة `09:00 UTC` من الاثنين للجمعة فقط.\n- **R2 — مؤكد (E1، S1، D2):** الرسالة تحتوي إجمالي عدد الطلبات المنشأة خلال اليوم التقويمي السابق من `00:00` شاملًا إلى `24:00 UTC` غير شامل.\n- **R3 — مؤكد (E1، S1، D3):** العد يشمل كل الطلبات المنشأة في الفترة بصرف النظر عن حالتها اللاحقة.\n- **R4 — مؤكد (E1، S1، D4):** الإرسال إلى `operations@example.invalid`.\n- **R5 — مؤكد (E1، S1، D5):** عدم تضمين أي بيانات شخصية.\n- **R6 — مؤكد (E1، S1/S2، D6):** لا تُرسل رسائل يوم السبت أو الأحد.\n- **R7 — مؤكد (E1، S1، D7):** رسالة الاثنين تخص يوم الأحد؛ وبالتالي التعريف لا يرحّل تقارير الجمعة أو السبت إلى الاثنين.\n- **R8 — مؤكد (E1، S3، D8):** لا توجد إعادة محاولة بعد تصنيف فشل التسليم كفشل دائم.\n\nالمستفيد هو فريق العمليات. مقياس النجاح التشغيلي وآلية المراقبة غير محددين، لكن ده لا يمنع اكتساب تفاصيل التنفيذ.\n\n## Current State & Evidence\n\n```json\n{\"evidence\":[{\"id\":\"E1\",\"claim\":\"مالك العمليات حدد الجدول الزمني، نافذة العد، قواعد الإدراج، المستلم، قيود الخصوصية وعطلة نهاية الأسبوع وسياسة الفشل الدائم، وأكد توفر البريد عبر عقد التكامل المعتمد.\",\"kind\":\"desired\",\"class\":\"direct\",\"source\":\"conversation:USER-REQUEST\",\"authority\":\"operations owner\",\"observed_at\":\"2026-10-19T00:00:00+03:00\"}]}\n```\n\nالسلوك الحالي والتنفيذ التقني غير مفحوصين ضمن هذا الطلب؛ المتاح هنا هو السلوك المطلوب المعتمد.\n\n## Actors & Scenarios\n\n```json\n{\"scenarios\":[{\"id\":\"S1\",\"actor\":\"scheduled process\",\"goal\":\"إرسال إجمالي طلبات اليوم السابق إلى صندوق العمليات\",\"trigger\":\"09:00 UTC في يوم عمل من الاثنين إلى الجمعة\",\"preconditions\":\"تكامل البريد المعتمد قابل للاستخدام ومصدر الطلبات متاح للقراءة\",\"main_path\":\"يحسب النظام الطلبات التي أُنشئت بين 00:00 و24:00 UTC لليوم السابق، دون اعتبار للحالة اللاحقة، ثم يرسل العدد المجمع فقط إلى operations@example.invalid.\",\"alternatives\":[\"يوم الاثنين تُستخدم نافذة يوم الأحد.\",\"لو العدد صفر، يظل العدد الإجمالي الصحيح هو صفر؛ معالجة شكل الرسالة من تفاصيل التنفيذ.\"],\"failures\":[\"إذا صنّف مزود التسليم الفشل بأنه دائم، لا تحدث إعادة محاولة.\"],\"postconditions\":\"يستلم صندوق العمليات رسالة واحدة بالعدد المجمع دون بيانات شخصية.\",\"rules\":[\"R1: التنفيذ 09:00 UTC في أيام العمل فقط (E1).\",\"R2: النافذة هي اليوم السابق 00:00–24:00 UTC (E1).\",\"R3: العد حسب وقت الإنشاء بصرف النظر عن الحالة اللاحقة (E1).\",\"R4: المستلم operations@example.invalid (E1).\",\"R5: لا بيانات شخصية (E1).\",\"R7: الاثنين يغطي الأحد (E1).\",\"R8: لا إعادة محاولة بعد الفشل الدائم (E1).\"],\"status\":\"confirmed\",\"sources\":[\"E1\"]},{\"id\":\"S2\",\"actor\":\"scheduled process\",\"goal\":\"الامتناع عن إرسال رسائل نهاية الأسبوع\",\"trigger\":\"09:00 UTC يوم السبت أو الأحد\",\"preconditions\":\"الجدول الزمني قائم\",\"main_path\":\"لا تُنشأ ولا تُرسل رسالة.\",\"alternatives\":[],\"failures\":[],\"postconditions\":\"لا تصل رسالة نهاية أسبوع إلى صندوق العمليات.\",\"rules\":[\"R6: ممنوع إرسال رسائل السبت والأحد (E1).\"],\"status\":\"confirmed\",\"sources\":[\"E1\"]},{\"id\":\"S3\",\"actor\":\"email delivery integration\",\"goal\":\"إيقاف المحاولات بعد فشل دائم\",\"trigger\":\"نتيجة تسليم مصنفة كفشل دائم\",\"preconditions\":\"تمت محاولة إرسال رسالة مجدولة\",\"main_path\":\"يسجل التنفيذ النتيجة ولا يعيد محاولة التسليم.\",\"alternatives\":[\"سياسة الأعطال المؤقتة وتفاصيل التصنيف يكتسبها مصنع الأتمتة من عقد التكامل والتنفيذ القائم.\"],\"failures\":[\"التصنيف الخاطئ بين العطل المؤقت والدائم مخاطرة تنفيذية تحتاج تحققًا من عقد التكامل.\"],\"postconditions\":\"لا توجد محاولة لاحقة لنفس الرسالة بعد الفشل الدائم.\",\"rules\":[\"R8: لا retries بعد permanent delivery failure (E1).\"],\"status\":\"confirmed\",\"sources\":[\"E1\"]}]}\n```\n\n## Scope & Exclusions\n\nداخل النطاق: الجدولة، حساب العدد المجمع، إرسال البريد، ومنع retries بعد الفشل الدائم.\n\nخارج النطاق:\n\n- إرسال بيانات الطلبات الفردية أو أي بيانات شخصية.\n- رسائل السبت والأحد.\n- تغيير تعريف اليوم السابق أو ترحيل الأيام غير المُرسلة.\n- اختيار التقنية، بناء workflow، أو تنفيذ الأتمتة أثناء intake.\n- إعادة التحقق من صلاحية البريد؛ القدرة مؤكدة بعقد التكامل المعتمد.\n\n## Constraints & Dependencies\n\n- كل الحسابات والجدولة تستخدم UTC.\n- يعتمد العد على وقت إنشاء الطلب، وليس حالته الحالية أو النهائية.\n- لازم يظل محتوى البريد aggregate-only.\n- التنفيذ يعتمد على مصدر موثوق لوقت إنشاء الطلب، ومشغّل جدولة، وعقد تكامل البريد المعتمد.\n- تفاصيل الاستعلام، تنسيق الرسالة، idempotency، المراقبة، وتصنيف أخطاء التسليم يكتسبها مصنع الأتمتة.\n\n## Decisions & Assumptions\n\n```json\n{\"decisions\":[{\"id\":\"D1\",\"statement\":\"التشغيل 09:00 UTC من الاثنين للجمعة.\",\"status\":\"accepted\",\"origin\":\"user request\",\"authority\":\"operations owner\",\"sources\":[\"E1\"],\"consequence\":\"يحدد جدول التشغيل.\"},{\"id\":\"D2\",\"statement\":\"اليوم السابق هو اليوم التقويمي السابق في UTC ضمن نافذة نصف مفتوحة [00:00، 24:00).\",\"status\":\"accepted\",\"origin\":\"user request\",\"authority\":\"operations owner\",\"sources\":[\"E1\"],\"consequence\":\"يمنع تداخل أو فقد الحدود الزمنية.\"},{\"id\":\"D3\",\"statement\":\"كل طلب أُنشئ داخل النافذة يُحتسب بصرف النظر عن التغير اللاحق في حالته.\",\"status\":\"accepted\",\"origin\":\"user request\",\"authority\":\"operations owner\",\"sources\":[\"E1\"],\"consequence\":\"مصدر العد هو created-at فقط.\"},{\"id\":\"D4\",\"statement\":\"المستلم هو operations@example.invalid.\",\"status\":\"accepted\",\"origin\":\"user request\",\"authority\":\"operations owner\",\"sources\":[\"E1\"],\"consequence\":\"يحدد وجهة التسليم.\"},{\"id\":\"D5\",\"statement\":\"يحظر تضمين البيانات الشخصية.\",\"status\":\"accepted\",\"origin\":\"user request\",\"authority\":\"operations owner\",\"sources\":[\"E1\"],\"consequence\":\"يقتصر المحتوى على العدد المجمع ومعلومات تشغيلية غير شخصية.\"},{\"id\":\"D6\",\"statement\":\"لا رسائل في عطلة نهاية الأسبوع.\",\"status\":\"accepted\",\"origin\":\"user request\",\"authority\":\"operations owner\",\"sources\":[\"E1\"],\"consequence\":\"السبت والأحد لا ينتجان إرسالًا.\"},{\"id\":\"D7\",\"statement\":\"رسالة الاثنين تخص الأحد، ولا تُرحّل أعداد الجمعة أو السبت.\",\"status\":\"accepted\",\"origin\":\"user request\",\"authority\":\"operations owner\",\"sources\":[\"E1\"],\"consequence\":\"بعض الأيام لا يكون لها تقرير مستقل وفق الجدول المقصود.\"},{\"id\":\"D8\",\"statement\":\"الفشل الدائم في التسليم لا يتبعه retry.\",\"status\":\"accepted\",\"origin\":\"user request\",\"authority\":\"operations owner\",\"sources\":[\"E1\"],\"consequence\":\"لا محاولات لاحقة لنفس الرسالة بعد النتيجة الدائمة.\"}]}\n```\n\n## Open Gaps & Owners\n\n```json\n{\"gaps\":[{\"id\":\"G1\",\"type\":\"repo_fact\",\"question\":\"ما مصدر الطلبات وحقل created-at والاستعلام الصحيح لحساب النافذة بتوقيت UTC؟\",\"impact\":\"مطلوب لتنفيذ عد صحيح.\",\"blocking\":false,\"state\":\"open\",\"owner\":\"automation factory\",\"route\":\"افحص نموذج الطلبات ومصدر البيانات والعقود الحالية في consumer workspace.\",\"depends_on\":[],\"sources\":[\"E1\"]},{\"id\":\"G2\",\"type\":\"repo_fact\",\"question\":\"ما آلية الجدولة الحالية وضماناتها ضد التشغيل المكرر؟\",\"impact\":\"يؤثر في موثوقية وجدولة التنفيذ.\",\"blocking\":false,\"state\":\"open\",\"owner\":\"automation factory\",\"route\":\"افحص إعدادات الجدولة والأنماط القائمة.\",\"depends_on\":[],\"sources\":[\"E1\"]},{\"id\":\"G3\",\"type\":\"repo_fact\",\"question\":\"كيف يعرّف عقد تكامل البريد الفشل الدائم مقابل المؤقت؟\",\"impact\":\"لازم لتطبيق سياسة عدم إعادة المحاولة بدقة.\",\"blocking\":false,\"state\":\"open\",\"owner\":\"automation factory\",\"route\":\"اقرأ عقد التكامل المعتمد وربط حالات وأكواد التسليم.\",\"depends_on\":[],\"sources\":[\"E1\"]},{\"id\":\"G4\",\"type\":\"repo_fact\",\"question\":\"ما تنسيق الموضوع والنص، وسياسة retries للأعطال غير الدائمة، والرصد المطلوب؟\",\"impact\":\"تفاصيل تشغيلية لازمة للتنفيذ لكنها لا تغير النتيجة المطلوبة.\",\"blocking\":false,\"state\":\"open\",\"owner\":\"automation factory\",\"route\":\"استخرج الأنماط التشغيلية القائمة واقترح أقل إعداد متسق معها دون إضافة بيانات شخصية.\",\"depends_on\":[\"G2\",\"G3\"],\"sources\":[\"E1\"]}]}\n```\n\nمفيش قرار جوهري غير محسوم محتاج سؤال للمالك.\n\n## Context Pointers\n\n- المصدر المعتمد للمتطلبات: `conversation:USER-REQUEST`.\n- عقد تكامل البريد المعتمد: مؤكَّد وجوده من المالك؛ مكانه الفعلي يحدده مصنع الأتمتة.\n- ملفات مصدر الطلبات والجدولة الحالية: تُكتسب من consumer workspace.\n\n## Readiness & Next Handoff\n\n```json\n{\"readiness\":{\"status\":\"ready_for_domain_acquisition\",\"sufficiently_known\":\"النتيجة، المالك، المستلم، الجدول، نافذة العد، قاعدة الإدراج، الخصوصية، سلوك نهاية الأسبوع، وسياسة الفشل الدائم محددة مباشرةً بواسطة مالك العمليات.\",\"next_receiver\":\"automation factory\",\"actions\":[\"تحديد مصدر الطلبات وحقل وقت الإنشاء وتأكيد دلالة UTC وحدود النافذة.\",\"تحديد آلية الجدولة القائمة وضمان عدم التكرار.\",\"قراءة عقد البريد وربط حالات الفشل الدائم والمؤقت.\",\"اكتساب تنسيق البريد والمراقبة وسياسة الأعطال غير الدائمة من الأنماط التشغيلية المعتمدة.\"],\"limitations\":[\"ده handoff مبدئي داخل المحادثة وليس ملفًا canonical مكتوبًا أو validated.\",\"السلوك الحالي وتفاصيل التنفيذ لم تُفحص بسبب قيد read-only وحدود مرحلة intake.\"]}}\n```",
+  "usage": {
+    "input_tokens": 122872,
+    "cached_input_tokens": 95104,
+    "cache_write_input_tokens": 0,
+    "output_tokens": 3651,
+    "reasoning_output_tokens": 484
+  }
+}
+2026-10-19T13:09:00.076Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Provider response properties: output, tokenUsage, cost, metadata, raw, sessionId
+2026-10-19T13:09:00.077Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Provider response cached property explicitly: undefined
+2026-10-19T13:09:00.081Z [DEBUG] [logger-ChlKG5Wv.js:1480]: Evaluator response
+{
+  "responsePreview": "{\"output\":\"# Intake Handoff\\n\\n## Identity & Stage\\n\\n```json\\n{\\\"identity\\\":{\\\"id\\\":\\\"REQ-12b6579fc"
+}
+2026-10-19T13:09:00.081Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Evaluator checking cached flag: response.cached = false, provider.delay = 0
+2026-10-19T13:09:00.082Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Tracked response usage for openai:codex-sdk (OpenAICodexSDKProvider): total=126523, cached=95104
+2026-10-19T13:09:03.320Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Using Codex SDK default providers from ChatGPT/Codex credentials
+2026-10-19T13:09:03.929Z [DEBUG] [logger-ChlKG5Wv.js:1474]: [CodexSDK] No explicit API credentials configured; deferring auth resolution to Codex SDK login state
+2026-10-19T13:09:03.929Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting to import module: {"resolvedPath":"C:\\Users\\kerol\\AppData\\Roaming\\npm\\node_modules\\promptfoo\\node_modules\\@openai\\codex-sdk\\dist\\index.js","moduleId":"C:\\Users\\kerol\\AppData\\Roaming\\npm\\node_modules\\promptfoo\\node_modules\\@openai\\codex-sdk\\dist\\index.js"}
+2026-10-19T13:09:03.930Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Attempting ESM import from: file:///C:/Users/kerol/AppData/Roaming/npm/node_modules/promptfoo/node_modules/@openai/codex-sdk/dist/index.js
+2026-10-19T13:09:03.935Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Successfully imported module: {"resolvedPath":"file:///C:/Users/kerol/AppData/Roaming/npm/node_modules/promptfoo/node_modules/@openai/codex-sdk/dist/index.js","moduleId":"C:\\Users\\kerol\\AppData\\Roaming\\npm\\node_modules\\promptfoo\\node_modules\\@openai\\codex-sdk\\dist\\index.js"}
+2026-10-19T13:09:23.833Z [DEBUG] [logger-ChlKG5Wv.js:1480]: OpenAI Codex SDK response
+{
+  "output": "{\"reason\":\"The response asks no clarification questions, preserves the weekday 09:00 UTC schedule, operations beneficiary and recipient, preceding UTC calendar-day window including Sunday for Monday, creation-time-based aggregate scope regardless of later status, no-personal-data constraint, no weekend messages, and no retries after permanent delivery failure. It provides an inline provisional handoff, explicitly routes repository and implementation facts to the automation factory, treats owner statements as desired evidence rather than observed runtime, and clearly states that no canonical file was written or published.\",\"pass\":true,\"score\":1}",
+  "usage": {
+    "input_tokens": 23810,
+    "cached_input_tokens": 0,
+    "cache_write_input_tokens": 0,
+    "output_tokens": 165,
+    "reasoning_output_tokens": 44
+  }
+}
+2026-10-19T13:09:23.878Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Eval #1 complete (1 of 1)
+2026-10-19T13:09:23.887Z [DEBUG] [logger-ChlKG5Wv.js:1480]: [Scheduler] Final metrics for openai:codex-sdk
+{
+  "totalRequests": 2,
+  "completedRequests": 2,
+  "failedRequests": 0,
+  "rateLimitHits": 0,
+  "retriedRequests": 0,
+  "avgLatencyMs": 63534,
+  "p50LatencyMs": 20201,
+  "p99LatencyMs": 20201
+}
+2026-10-19T13:09:23.887Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Wants to share: false
+2026-10-19T13:09:23.888Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Can share eval: false
+2026-10-19T13:09:23.896Z [INFO]: ✓ Eval complete
+2026-10-19T13:09:23.896Z [INFO]: 
+2026-10-19T13:09:23.896Z [INFO]: Total Tokens: 150,498
+2026-10-19T13:09:23.896Z [INFO]:   Provider: 126,523 (122,872 prompt, 3,651 completion, 95,104 cached, 484 reasoning)
+2026-10-19T13:09:23.897Z [INFO]:   Grading: 23,975 (23,810 prompt, 165 completion, 44 reasoning)
+2026-10-19T13:09:23.897Z [INFO]: 
+2026-10-19T13:09:23.897Z [INFO]: Results:
+2026-10-19T13:09:23.897Z [INFO]:   ✓ 1 passed (100%)
+2026-10-19T13:09:23.897Z [INFO]:   0 failed (0%)
+2026-10-19T13:09:23.897Z [INFO]:   0 errors (0%)
+2026-10-19T13:09:23.897Z [INFO]: Duration: 2m 12s (concurrency: 1)
+2026-10-19T13:09:23.897Z [INFO]: 
+2026-10-19T13:09:23.897Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Shareable URL: null
+2026-10-19T13:09:23.938Z [DEBUG] [logger-ChlKG5Wv.js:1474]: [TraceStore] Creating new TraceStore instance
+2026-10-19T13:09:23.938Z [DEBUG] [logger-ChlKG5Wv.js:1474]: [TraceStore] Fetching traces for evaluation eval-WXZ-2026-10-19T13:07:13
+2026-10-19T13:09:23.938Z [DEBUG] [logger-ChlKG5Wv.js:1474]: [TraceStore] Initializing database connection
+2026-10-19T13:09:23.947Z [DEBUG] [logger-ChlKG5Wv.js:1474]: [TraceStore] Found 0 traces for evaluation eval-WXZ-2026-10-19T13:07:13
+2026-10-19T13:09:23.948Z [DEBUG] [logger-ChlKG5Wv.js:1474]: [TraceStore] Returning 0 traces with spans
+2026-10-19T13:09:23.956Z [INFO]: Writing output to promptfoo/results/uc01-corrected-fixture.json
+2026-10-19T13:09:23.961Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Shutting down gracefully...
+2026-10-19T13:09:23.968Z [DEBUG] [logger-ChlKG5Wv.js:1480]: Successfully checkpointed WAL file before closing
+{
+  "busy": 0,
+  "log": 0,
+  "checkpointed": 0
+}
+2026-10-19T13:09:23.968Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Database connection closed successfully
+2026-10-19T13:09:23.973Z [DEBUG] [logger-ChlKG5Wv.js:1474]: Closing logger file transports
