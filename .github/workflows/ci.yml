@@ -1,0 +1,19 @@
+name: 'CI: Plugin Workflow'
+
+on:
+  pull_request:
+  merge_group:
+
+concurrency:
+  group: ci-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+      
+      - name: Run a dummy script
+        run: echo "Level 1 is successfully configured!"
